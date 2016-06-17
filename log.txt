@@ -1,0 +1,893 @@
+Last login: Thu Jun 16 21:36:02 on ttys003
+HYdeMacBook-Pro:~ apple$ ssh huangy@192.168.0.92
+huangy@192.168.0.92's password:
+Welcome to Ubuntu 12.04.5 LTS (GNU/Linux 3.13.0-32-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+21 packages can be updated.
+15 updates are security updates.
+
+New release '14.04.3 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Your Hardware Enablement Stack (HWE) is supported until April 2017.
+
+Last login: Thu Jun 16 21:41:26 2016 from 10.10.0.21
+huangy@linux92:~$ ls
+code  data_mining  examples.desktop  nohup.out  repos  test_hy
+huangy@linux92:~$ cd data_mining/
+huangy@linux92:~/data_mining$ ls
+nyt_corpus  nyt_corpus_628804095.zip  output.txt
+huangy@linux92:~/data_mining$ vi output.txt
+huangy@linux92:~/data_mining$ rm output.txt
+huangy@linux92:~/data_mining$ ls
+nyt_corpus  nyt_corpus_628804095.zip
+huangy@linux92:~/data_mining$ ls
+nyt_corpus  nyt_corpus_628804095.zip
+huangy@linux92:~/data_mining$ ls
+nyt_corpus  nyt_corpus_628804095.zip
+huangy@linux92:~/data_mining$ cd nyt_corpus/
+huangy@linux92:~/data_mining/nyt_corpus$ ls
+data  decompress.sh  docs  dtd  index.html  tools
+huangy@linux92:~/data_mining/nyt_corpus$ nohup bash decompress.sh &
+[1] 17332
+huangy@linux92:~/data_mining/nyt_corpus$ nohup: ignoring input and appending output to `nohup.out'
+
+huangy@linux92:~/data_mining/nyt_corpus$ ps -ef |grep 17332
+huangy   17332 16884  0 21:45 pts/5    00:00:00 bash decompress.sh
+huangy   17433 17332  0 21:45 pts/5    00:00:00 rm 07.tgz
+huangy   17435 16884  0 21:45 pts/5    00:00:00 grep --color=auto 17332
+huangy@linux92:~/data_mining/nyt_corpus$ ps -ef |grep 17332
+huangy   17332 16884  0 21:45 pts/5    00:00:00 bash decompress.sh
+huangy   17433 17332  0 21:45 pts/5    00:00:00 rm 07.tgz
+huangy   17437 16884  0 21:46 pts/5    00:00:00 grep --color=auto 17332
+huangy@linux92:~/data_mining/nyt_corpus$ ps -ef |grep 17332
+huangy   17332 16884  0 21:45 pts/5    00:00:00 bash decompress.sh
+huangy   17433 17332  0 21:45 pts/5    00:00:00 rm 07.tgz
+huangy   17439 16884  0 21:46 pts/5    00:00:00 grep --color=auto 17332
+huangy@linux92:~/data_mining/nyt_corpus$ ps -ef |grep 17332
+huangy   17332 16884  0 21:45 pts/5    00:00:00 bash decompress.sh
+huangy   17724 17332  3 21:48 pts/5    00:00:00 tar zxvf 03.tgz
+huangy   17727 16884  0 21:48 pts/5    00:00:00 grep --color=auto 17332
+huangy@linux92:~/data_mining/nyt_corpus$ ps -ef |grep 17332
+huangy   17332 16884  0 21:45 pts/5    00:00:00 bash decompress.sh
+huangy   17724 17332  3 21:48 pts/5    00:00:00 tar zxvf 03.tgz
+huangy   17729 16884  0 21:48 pts/5    00:00:00 grep --color=auto 17332
+huangy@linux92:~/data_mining/nyt_corpus$ packet_write_wait: Connection to 192.168.0.92: Broken pipe
+HYdeMacBook-Pro:~ apple$ ssh huangy@192.168.0.92
+^C
+HYdeMacBook-Pro:~ apple$ ssh huangy@192.168.0.92
+huangy@192.168.0.92's password:
+Welcome to Ubuntu 12.04.5 LTS (GNU/Linux 3.13.0-32-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+21 packages can be updated.
+15 updates are security updates.
+
+New release '14.04.3 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Your Hardware Enablement Stack (HWE) is supported until April 2017.
+
+Last login: Thu Jun 16 21:44:01 2016 from 10.10.0.21
+huangy@linux92:~$ ls
+code  data_mining  examples.desktop  nohup.out  repos  test_hy
+huangy@linux92:~$ ps -ef |grep 17332
+huangy   18370 18203  0 21:51 pts/2    00:00:00 grep --color=auto 17332
+huangy@linux92:~$ cd data_mining/
+huangy@linux92:~/data_mining$ ls
+nyt_corpus  nyt_corpus_628804095.zip
+huangy@linux92:~/data_mining$ cd nyt_corpus/
+huangy@linux92:~/data_mining/nyt_corpus$ ls
+data  decompress.sh  docs  dtd  index.html  nohup.out  tools
+huangy@linux92:~/data_mining/nyt_corpus$ cd d
+-bash: cd: d: No such file or directory
+huangy@linux92:~/data_mining/nyt_corpus$ cd data
+huangy@linux92:~/data_mining/nyt_corpus/data$ ls
+1987  1989  1991  1993  1995  1997  1999  2001  2003  2005  2007
+1988  1990  1992  1994  1996  1998  2000  2002  2004  2006
+huangy@linux92:~/data_mining/nyt_corpus/data$ cd 2006
+huangy@linux92:~/data_mining/nyt_corpus/data/2006$ ls
+01  02  03  04  05  06  07  08  09  10  11  12
+huangy@linux92:~/data_mining/nyt_corpus/data/2006$ cd 12
+huangy@linux92:~/data_mining/nyt_corpus/data/2006/12$ ls
+01  03  05  07  09  11  13  15  17  19  21  23  25  27  29  31
+02  04  06  08  10  12  14  16  18  20  22  24  26  28  30
+huangy@linux92:~/data_mining/nyt_corpus/data/2006/12$ cd 30
+huangy@linux92:~/data_mining/nyt_corpus/data/2006/12/30$ ls
+1815146.xml  1815170.xml  1815194.xml  1815218.xml  1815242.xml  1815266.xml
+1815147.xml  1815171.xml  1815195.xml  1815219.xml  1815243.xml  1815267.xml
+1815148.xml  1815172.xml  1815196.xml  1815220.xml  1815244.xml  1815268.xml
+1815149.xml  1815173.xml  1815197.xml  1815221.xml  1815245.xml  1815269.xml
+1815150.xml  1815174.xml  1815198.xml  1815222.xml  1815246.xml  1815270.xml
+1815151.xml  1815175.xml  1815199.xml  1815223.xml  1815247.xml  1815271.xml
+1815152.xml  1815176.xml  1815200.xml  1815224.xml  1815248.xml  1815272.xml
+1815153.xml  1815177.xml  1815201.xml  1815225.xml  1815249.xml  1815273.xml
+1815154.xml  1815178.xml  1815202.xml  1815226.xml  1815250.xml  1815274.xml
+1815155.xml  1815179.xml  1815203.xml  1815227.xml  1815251.xml  1815275.xml
+1815156.xml  1815180.xml  1815204.xml  1815228.xml  1815252.xml  1815276.xml
+1815157.xml  1815181.xml  1815205.xml  1815229.xml  1815253.xml  1815277.xml
+1815158.xml  1815182.xml  1815206.xml  1815230.xml  1815254.xml  1815278.xml
+1815159.xml  1815183.xml  1815207.xml  1815231.xml  1815255.xml  1815279.xml
+1815160.xml  1815184.xml  1815208.xml  1815232.xml  1815256.xml  1815280.xml
+1815161.xml  1815185.xml  1815209.xml  1815233.xml  1815257.xml  1815281.xml
+1815162.xml  1815186.xml  1815210.xml  1815234.xml  1815258.xml  1815282.xml
+1815163.xml  1815187.xml  1815211.xml  1815235.xml  1815259.xml  1815283.xml
+1815164.xml  1815188.xml  1815212.xml  1815236.xml  1815260.xml  1815284.xml
+1815165.xml  1815189.xml  1815213.xml  1815237.xml  1815261.xml  1815285.xml
+1815166.xml  1815190.xml  1815214.xml  1815238.xml  1815262.xml  1815286.xml
+1815167.xml  1815191.xml  1815215.xml  1815239.xml  1815263.xml  1815287.xml
+1815168.xml  1815192.xml  1815216.xml  1815240.xml  1815264.xml
+1815169.xml  1815193.xml  1815217.xml  1815241.xml  1815265.xml
+huangy@linux92:~/data_mining/nyt_corpus/data/2006/12/30$ cd ..
+huangy@linux92:~/data_mining/nyt_corpus/data/2006/12$ cd ..
+huangy@linux92:~/data_mining/nyt_corpus/data/2006$ cd ..
+huangy@linux92:~/data_mining/nyt_corpus/data$ ls
+1987  1989  1991  1993  1995  1997  1999  2001  2003  2005  2007
+1988  1990  1992  1994  1996  1998  2000  2002  2004  2006
+huangy@linux92:~/data_mining/nyt_corpus/data$ cd ..
+huangy@linux92:~/data_mining/nyt_corpus$ cd ..
+huangy@linux92:~/data_mining$ ls
+nyt_corpus  nyt_corpus_628804095.zip
+huangy@linux92:~/data_mining$ ls
+code  nyt_corpus  nyt_corpus_628804095.zip
+huangy@linux92:~/data_mining$ cd c
+-bash: cd: c: No such file or directory
+huangy@linux92:~/data_mining$ cd code
+huangy@linux92:~/data_mining/code$ ls
+20news.py  linux后台命令     result         sklearnTest.py  tfidf.py
+file.py    preprocessing.py  settings.json  small_data
+huangy@linux92:~/data_mining/code$ nohup python preprocessing.py >output.txt &
+[1] 18866
+huangy@linux92:~/data_mining/code$ nohup: ignoring input and redirecting stderr to stdout
+
+[1]+  Exit 1                  nohup python preprocessing.py > output.txt
+huangy@linux92:~/data_mining/code$ ps -ef |grep 18866
+huangy   18883 18203  0 21:54 pts/2    00:00:00 grep --color=auto 18866
+huangy@linux92:~/data_mining/code$ ls
+20news.py  linux后台命令  preprocessing.py  settings.json   small_data
+file.py    output.txt     result            sklearnTest.py  tfidf.py
+huangy@linux92:~/data_mining/code$ ls
+20news.py  linux后台命令  preprocessing.py  settings.json   small_data
+file.py    output.txt     result            sklearnTest.py  tfidf.py
+huangy@linux92:~/data_mining/code$ ps -ef |grep 18866
+huangy   18887 18203  0 21:54 pts/2    00:00:00 grep --color=auto 18866
+huangy@linux92:~/data_mining/code$ python preprocessing.py
+Traceback (most recent call last):
+  File "preprocessing.py", line 12, in <module>
+    import numpy as np
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/__init__.py", line 180, in <module>
+    from . import add_newdocs
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/core/__init__.py", line 58, in <module>
+    from numpy.testing.nosetester import _numpy_tester
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/__init__.py", line 12, in <module>
+    from . import decorators as dec
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/decorators.py", line 21, in <module>
+    from .utils import SkipTest
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/utils.py", line 15, in <module>
+    from tempfile import mkdtemp, mkstemp
+  File "/users/yaohl/anaconda2/lib/python2.7/tempfile.py", line 35, in <module>
+    from random import Random as _Random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+huangy@linux92:~/data_mining/code$ pip list
+Traceback (most recent call last):
+  File "/usr/bin/pip", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/pkg_resources/__init__.py", line 35, in <module>
+    import email.parser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/feedparser.py", line 27, in <module>
+    from email import message
+  File "/users/yaohl/anaconda2/lib/python2.7/email/message.py", line 16, in <module>
+    import email.charset
+  File "/users/yaohl/anaconda2/lib/python2.7/email/charset.py", line 13, in <module>
+    import email.base64mime
+  File "/users/yaohl/anaconda2/lib/python2.7/email/base64mime.py", line 40, in <module>
+    from email.utils import fix_eols
+  File "/users/yaohl/anaconda2/lib/python2.7/email/utils.py", line 27, in <module>
+    import random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+huangy@linux92:~/data_mining/code$ ls
+20news.py  linux后台命令  preprocessing.py  settings.json   small_data
+file.py    output.txt     result            sklearnTest.py  tfidf.py
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$ pip list
+Traceback (most recent call last):
+  File "/usr/bin/pip", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/pkg_resources/__init__.py", line 35, in <module>
+    import email.parser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/feedparser.py", line 27, in <module>
+    from email import message
+  File "/users/yaohl/anaconda2/lib/python2.7/email/message.py", line 16, in <module>
+    import email.charset
+  File "/users/yaohl/anaconda2/lib/python2.7/email/charset.py", line 13, in <module>
+    import email.base64mime
+  File "/users/yaohl/anaconda2/lib/python2.7/email/base64mime.py", line 40, in <module>
+    from email.utils import fix_eols
+  File "/users/yaohl/anaconda2/lib/python2.7/email/utils.py", line 27, in <module>
+    import random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$ sudo apt-get install python
+[sudo] password for huangy:
+huangy@linux92:~/data_mining/code$ sudo apt-get install python-pip
+[sudo] password for huangy:
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+python-pip is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
+huangy@linux92:~/data_mining/code$ pip install numpy
+Traceback (most recent call last):
+  File "/usr/bin/pip", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/pkg_resources/__init__.py", line 35, in <module>
+    import email.parser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/feedparser.py", line 27, in <module>
+    from email import message
+  File "/users/yaohl/anaconda2/lib/python2.7/email/message.py", line 16, in <module>
+    import email.charset
+  File "/users/yaohl/anaconda2/lib/python2.7/email/charset.py", line 13, in <module>
+    import email.base64mime
+  File "/users/yaohl/anaconda2/lib/python2.7/email/base64mime.py", line 40, in <module>
+    from email.utils import fix_eols
+  File "/users/yaohl/anaconda2/lib/python2.7/email/utils.py", line 27, in <module>
+    import random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+huangy@linux92:~/data_mining/code$ pip list
+Traceback (most recent call last):
+  File "/usr/bin/pip", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/pkg_resources/__init__.py", line 35, in <module>
+    import email.parser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/feedparser.py", line 27, in <module>
+    from email import message
+  File "/users/yaohl/anaconda2/lib/python2.7/email/message.py", line 16, in <module>
+    import email.charset
+  File "/users/yaohl/anaconda2/lib/python2.7/email/charset.py", line 13, in <module>
+    import email.base64mime
+  File "/users/yaohl/anaconda2/lib/python2.7/email/base64mime.py", line 40, in <module>
+    from email.utils import fix_eols
+  File "/users/yaohl/anaconda2/lib/python2.7/email/utils.py", line 27, in <module>
+    import random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+huangy@linux92:~/data_mining/code$ pip
+Traceback (most recent call last):
+  File "/usr/bin/pip", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/pkg_resources/__init__.py", line 35, in <module>
+    import email.parser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/feedparser.py", line 27, in <module>
+    from email import message
+  File "/users/yaohl/anaconda2/lib/python2.7/email/message.py", line 16, in <module>
+    import email.charset
+  File "/users/yaohl/anaconda2/lib/python2.7/email/charset.py", line 13, in <module>
+    import email.base64mime
+  File "/users/yaohl/anaconda2/lib/python2.7/email/base64mime.py", line 40, in <module>
+    from email.utils import fix_eols
+  File "/users/yaohl/anaconda2/lib/python2.7/email/utils.py", line 27, in <module>
+    import random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$
+huangy@linux92:~/data_mining/code$ sudo apt-get install python-pip
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+python-pip is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
+huangy@linux92:~/data_mining/code$ sudo apt-get install pip
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+E: Unable to locate package pip
+huangy@linux92:~/data_mining/code$ ls
+20news.py  linux后台命令  preprocessing.py  settings.json   small_data
+file.py    output.txt     result            sklearnTest.py  tfidf.py
+huangy@linux92:~/data_mining/code$ sudo apt-get remove python-pip
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following packages will be REMOVED:
+  python-pip
+0 upgraded, 0 newly installed, 1 to remove and 18 not upgraded.
+After this operation, 399 kB disk space will be freed.
+Do you want to continue [Y/n]?
+(Reading database ... 238787 files and directories currently installed.)
+Removing python-pip ...
+Processing triggers for man-db ...
+huangy@linux92:~/data_mining/code$ sudo apt-get install python-pip
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following NEW packages will be installed:
+  python-pip
+0 upgraded, 1 newly installed, 0 to remove and 18 not upgraded.
+Need to get 95.1 kB of archives.
+After this operation, 399 kB of additional disk space will be used.
+Get:1 http://cn.archive.ubuntu.com/ubuntu/ precise/universe python-pip all 1.0-1build1 [95.1 kB]
+Fetched 95.1 kB in 0s (814 kB/s)
+Selecting previously unselected package python-pip.
+(Reading database ... 238702 files and directories currently installed.)
+Unpacking python-pip (from .../python-pip_1.0-1build1_all.deb) ...
+Processing triggers for man-db ...
+Setting up python-pip (1.0-1build1) ...
+huangy@linux92:~/data_mining/code$ pip
+Traceback (most recent call last):
+  File "/usr/bin/pip", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/pkg_resources/__init__.py", line 35, in <module>
+    import email.parser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser
+  File "/users/yaohl/anaconda2/lib/python2.7/email/feedparser.py", line 27, in <module>
+    from email import message
+  File "/users/yaohl/anaconda2/lib/python2.7/email/message.py", line 16, in <module>
+    import email.charset
+  File "/users/yaohl/anaconda2/lib/python2.7/email/charset.py", line 13, in <module>
+    import email.base64mime
+  File "/users/yaohl/anaconda2/lib/python2.7/email/base64mime.py", line 40, in <module>
+    from email.utils import fix_eols
+  File "/users/yaohl/anaconda2/lib/python2.7/email/utils.py", line 27, in <module>
+    import random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+huangy@linux92:~/data_mining/code$ packet_write_wait: Connection to 192.168.0.92: Broken pipe
+HYdeMacBook-Pro:~ apple$ ls
+Applications		Library			a.out
+ClionProjects		Movies			scikit_learn_data
+Desktop			Music			screenOut.txt
+Documents		Pictures
+Downloads		Public
+HYdeMacBook-Pro:~ apple$ ssh huangy@192.168.0.92
+huangy@192.168.0.92's password:
+Welcome to Ubuntu 12.04.5 LTS (GNU/Linux 3.13.0-32-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+New release '14.04.3 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Your Hardware Enablement Stack (HWE) is supported until April 2017.
+
+Last login: Thu Jun 16 21:50:38 2016 from 10.10.0.25
+huangy@linux92:~$ ls
+code  data_mining  examples.desktop  nohup.out  repos  test_hy
+huangy@linux92:~$ python
+Python 2.7.3 (default, Jun 22 2015, 19:33:41)
+[GCC 4.6.3] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> quit()
+huangy@linux92:~$ sudo apt-get remove python
+[sudo] password for huangy:
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  gir1.2-notify-0.7 libopencc1 syslinux libmtp9 gedit-common gir1.2-rb-3.0
+  libgtksourceview-3.0-0 libdmapsharing-3.0-2 rhythmbox-data intel-gpu-tools
+  libdiscid0 libmtp-runtime gir1.2-indicate-0.7 libgpod-common ibus-gtk3
+  gir1.2-gnomekeyring-1.0 liblouis-data syslinux-legacy
+  libcrypt-passwdmd5-perl ibus-gtk docutils-common guile-1.8-libs libsqlite0
+  syslinux-common libumfpack5.4.0 librhythmbox-core5 libgpod4
+  gtk2-engines-murrine gtk3-engines-unico gir1.2-appindicator3-0.1
+  libreoffice-gtk libindicator7 liblouis2 gir1.2-gtksource-3.0
+  libgtksourceview-3.0-common libgtkspell-3-0 sphinx-common gir1.2-atspi-2.0
+  ibus-pinyin-db-android im-switch ubuntu-mono rpm librpmbuild2 libamd2.2.0
+  libappindicator1 gir1.2-wnck-3.0 libmtp-common ubuntu-wallpapers
+  media-player-info libmusicbrainz3-6 librpmsign0 librsync1 adium-theme-ubuntu
+  activity-log-manager-common libjs-sphinxdoc
+Use 'apt-get autoremove' to remove them.
+The following packages will be REMOVED:
+  activity-log-manager-control-center aisleriot apport apport-gtk
+  apt-xapian-index apturl apturl-common bluez bluez-alsa bluez-alsa:i386
+  bluez-gstreamer cdbs checkbox checkbox-qt compiz compiz-gnome
+  compiz-plugins-main-default compizconfig-backend-gconf deja-dup duplicity
+  firefox firefox-gnome-support foomatic-db-compressed-ppds gconf2 gedit gksu
+  gnome-bluetooth gnome-control-center gnome-media gnome-menus gnome-orca
+  gnome-sudoku gnome-terminal gnome-terminal-data gnome-user-share
+  gstreamer0.10-gconf gwibber gwibber-service gwibber-service-facebook
+  gwibber-service-identica gwibber-service-twitter hplip hplip-data ia32-libs
+  ia32-libs-multiarch:i386 ibus ibus-pinyin ibus-table indicator-datetime
+  indicator-power ipython ipython-notebook jockey-common jockey-gtk
+  landscape-client-ui-install launchpad-integration libboost-python-dev
+  libboost-python1.46-dev libcanberra-gtk-module:i386 libcompizconfig0
+  libgksu2-0 libgnome-media-profiles-3.0-0 libgnome2-common libgwibber-gtk2
+  libgwibber2 libmetacity-private0 libreoffice-gnome libsyncdaemon-1.0-1
+  light-themes lsb-release metacity metacity-common nautilus-share
+  network-manager-gnome nvidia-common onboard openprinting-ppds
+  printer-driver-foo2zjs printer-driver-postscript-hp printer-driver-ptouch
+  printer-driver-sag-gdi printer-driver-splix python python-appindicator
+  python-apport python-apt python-aptdaemon python-aptdaemon.gtk3widgets
+  python-aptdaemon.pkcompat python-brlapi python-cairo python-chardet
+  python-configglue python-configobj python-crypto python-cups
+  python-cupshelpers python-dateutil python-dbus python-debian
+  python-decorator python-defer python-dev python-dirspec python-docutils
+  python-egenix-mxdatetime python-egenix-mxtools python-gconf python-gi
+  python-gi-cairo python-glade2 python-gnomekeyring python-gnupginterface
+  python-gobject python-gobject-2 python-gst0.10 python-gtk2 python-httplib2
+  python-ibus python-imaging python-jinja2 python-keyring python-launchpadlib
+  python-lazr.restfulclient python-lazr.uri python-libproxy python-libxml2
+  python-lockfile python-louis python-mako python-markupsafe python-matplotlib
+  python-mysqldb python-nose python-notify python-numexpr python-numpy
+  python-oauth python-opencv python-openssl python-packagekit python-pam
+  python-pandas python-pandas-lib python-pexpect python-pip
+  python-pkg-resources python-problem-report python-protobuf python-pyatspi2
+  python-pycurl python-pygments python-pyinotify python-pyparsing
+  python-renderpm python-reportlab python-reportlab-accel python-roman
+  python-rpm python-rpy python-scikits.statsmodels python-scipy python-scour
+  python-serial python-setuptools python-simplegeneric python-simplejson
+  python-smbc python-software-properties python-speechd python-sphinx
+  python-sqlite python-sqlitecachec python-support python-sympy python-tables
+  python-tk python-tornado python-twisted-bin python-twisted-core
+  python-twisted-names python-twisted-web python-tz python-ubuntu-sso-client
+  python-ubuntuone-client python-ubuntuone-control-panel
+  python-ubuntuone-storageprotocol python-urlgrabber python-virtkey
+  python-virtualenv python-wadllib python-xapian python-xdg python-xkit
+  python-xlrd python-zeitgeist python-zmq python-zope.interface r-base-dev
+  rhythmbox rhythmbox-mozilla rhythmbox-plugin-cdrecorder
+  rhythmbox-plugin-magnatune rhythmbox-plugin-zeitgeist rhythmbox-plugins
+  rhythmbox-ubuntuone software-properties-common software-properties-gtk
+  system-config-printer-common system-config-printer-gnome
+  system-config-printer-udev totem totem-mozilla totem-plugins ubuntu-artwork
+  ubuntu-sso-client ubuntu-sso-client-gtk ubuntu-system-service
+  ubuntuone-client ubuntuone-client-gnome ubuntuone-control-panel
+  ubuntuone-couch ubuntuone-installer unattended-upgrades unity unity-2d
+  unity-common unity-lens-applications unity-lens-video
+  unity-scope-video-remote update-manager update-manager-core update-notifier
+  update-notifier-common usb-creator-common usb-creator-gtk xdiagnose yum
+  zeitgeist-core
+0 upgraded, 0 newly installed, 239 to remove and 16 not upgraded.
+After this operation, 349 MB disk space will be freed.
+Do you want to continue [Y/n]? y
+(Reading database ... 238787 files and directories currently installed.)
+Removing activity-log-manager-control-center ...
+Removing aisleriot ...
+Removing apport-gtk ...
+Removing apport ...
+apport stop/waiting
+Removing apt-xapian-index ...
+Removing index /var/lib/apt-xapian-index...
+Removing nautilus-share ...
+Removing apturl ...
+Removing apturl-common ...
+Removing gnome-user-share ...
+Removing gnome-bluetooth ...
+Removing bluez-gstreamer ...
+Removing bluez-alsa ...
+Removing ia32-libs ...
+Removing ia32-libs-multiarch:i386 ...
+Removing bluez-alsa:i386 ...
+Removing bluez ...
+bluetooth stop/waiting
+Removing r-base-dev ...
+Removing cdbs ...
+Removing checkbox-qt ...
+Removing checkbox ...
+Removing unity ...
+Removing compiz ...
+Removing compiz-gnome ...
+Removing compiz-plugins-main-default ...
+Removing compizconfig-backend-gconf ...
+Removing deja-dup ...
+Removing duplicity ...
+Removing firefox-gnome-support ...
+Removing firefox ...
+Removing foomatic-db-compressed-ppds ...
+Removing unity-lens-applications ...
+Removing unity-common ...
+Removing ubuntuone-client-gnome ...
+Removing network-manager-gnome ...
+Removing ubuntu-artwork ...
+Removing light-themes ...
+Removing libreoffice-gnome ...
+Removing unity-2d ...
+Removing metacity ...
+Removing libgnome2-common ...
+Removing gnome-media ...
+Removing gstreamer0.10-gconf ...
+Removing libmetacity-private0 ...
+Removing metacity-common ...
+Removing libgnome-media-profiles-3.0-0 ...
+Removing update-notifier ...
+Removing update-manager ...
+Removing gksu ...
+Removing libgksu2-0 ...
+Traceback (most recent call last):
+  File "/usr/bin/update-gconf-defaults", line 9, in <module>
+    import os,tempfile,shutil,sys
+  File "/users/yaohl/anaconda2/lib/python2.7/tempfile.py", line 35, in <module>
+    from random import Random as _Random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+dpkg: error processing libgksu2-0 (--remove):
+ subprocess installed post-removal script returned error exit status 1
+Removing libcompizconfig0 ...
+Removing ibus-table ...
+Removing ibus-pinyin ...
+Removing ibus ...
+Removing gnome-terminal ...
+update-alternatives: using /usr/bin/lxterm to provide /usr/bin/x-terminal-emulator (x-terminal-emulator) in auto mode.
+Removing gnome-terminal-data ...
+Removing libcanberra-gtk-module:i386 ...
+Removing gconf2 ...
+Removing gedit ...
+Removing indicator-power ...
+Removing indicator-datetime ...
+Removing gnome-control-center ...
+Removing gnome-menus ...
+Removing gnome-orca ...
+Removing gnome-sudoku ...
+Removing gwibber ...
+Removing libgwibber-gtk2 ...
+Removing libgwibber2 ...
+Removing gwibber-service-twitter ...
+Removing gwibber-service-identica ...
+Removing gwibber-service-facebook ...
+Removing gwibber-service ...
+Removing printer-driver-postscript-hp ...
+Removing hplip ...
+Removing hplip-data ...
+Removing ipython-notebook ...
+Removing ipython ...
+Removing jockey-gtk ...
+Removing jockey-common ...
+Removing landscape-client-ui-install ...
+Removing launchpad-integration ...
+Removing libboost-python-dev ...
+Removing libboost-python1.46-dev ...
+Removing libsyncdaemon-1.0-1 ...
+Removing update-notifier-common ...
+Removing update-manager-core ...
+Removing software-properties-gtk ...
+Removing ubuntuone-installer ...
+Removing python-aptdaemon.pkcompat ...
+Removing python-aptdaemon.gtk3widgets ...
+Removing python-aptdaemon ...
+Removing python-software-properties ...
+Removing unattended-upgrades ...
+Removing ubuntuone-control-panel ...
+Removing ubuntuone-client ...
+Removing python-apport ...
+Removing lsb-release ...
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+  File "/users/yaohl/anaconda2/lib/python2.7/encodings/__init__.py", line 123
+    raise CodecRegistryError,\
+                            ^
+SyntaxError: invalid syntax
+Aborted
+dpkg: error processing lsb-release (--remove):
+ subprocess installed pre-removal script returned error exit status 134
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+  File "/users/yaohl/anaconda2/lib/python2.7/encodings/__init__.py", line 123
+    raise CodecRegistryError,\
+                            ^
+SyntaxError: invalid syntax
+Aborted
+dpkg: error while cleaning up:
+ subprocess installed post-installation script returned error exit status 134
+Removing nvidia-common ...
+Removing onboard ...
+Removing openprinting-ppds ...
+Removing printer-driver-foo2zjs ...
+Removing printer-driver-ptouch ...
+Removing printer-driver-sag-gdi ...
+Removing printer-driver-splix ...
+Removing system-config-printer-gnome ...
+Removing rhythmbox-ubuntuone ...
+dpkg: warning: while removing rhythmbox-ubuntuone, directory '/usr/lib/python2.7/dist-packages/ubuntuone/tests' not empty so not removed.
+Removing rhythmbox-plugins ...
+Removing rhythmbox-plugin-zeitgeist ...
+Removing rhythmbox-plugin-magnatune ...
+Removing rhythmbox-plugin-cdrecorder ...
+Removing rhythmbox-mozilla ...
+Removing rhythmbox ...
+Removing python-gst0.10 ...
+Removing yum ...
+Removing python-libxml2 ...
+Removing python-tornado ...
+Removing python-rpm ...
+Removing xdiagnose ...
+Removing usb-creator-gtk ...
+Removing usb-creator-common ...
+Removing unity-scope-video-remote ...
+Removing unity-lens-video ...
+Removing ubuntu-system-service ...
+Removing ubuntu-sso-client-gtk ...
+Removing ubuntu-sso-client ...
+Removing totem-plugins ...
+Removing totem-mozilla ...
+dpkg: warning: while removing totem-mozilla, directory '/usr/lib/mozilla/plugins' not empty so not removed.
+Removing totem ...
+Removing software-properties-common ...
+Removing zeitgeist-core ...
+Removing python-zeitgeist ...
+Removing python-ubuntuone-control-panel ...
+Removing ubuntuone-couch ...
+Removing python-ubuntuone-client ...
+Removing python-ubuntuone-storageprotocol ...
+Removing python-ubuntu-sso-client ...
+Removing python-matplotlib ...
+Removing python-tz ...
+Removing python-sphinx ...
+Removing python-pygments ...
+Removing python-problem-report ...
+Removing python-openssl ...
+Removing python-mysqldb ...
+Removing python-libproxy ...
+Removing python-launchpadlib ...
+Removing python-lazr.restfulclient ...
+Removing python-keyring ...
+Removing python-jinja2 ...
+Removing python-imaging ...
+Removing python-httplib2 ...
+Removing python-gi-cairo ...
+Removing python-appindicator ...
+Removing python-pyatspi2 ...
+Removing python-gobject ...
+Removing python-gi ...
+Removing python-dev ...
+Removing system-config-printer-udev ...
+Removing system-config-printer-common ...
+Removing python-cupshelpers ...
+Removing python-crypto ...
+Removing python-apt ...
+Removing python-zmq ...
+Removing python-xlrd ...
+Removing python-virtualenv ...
+Removing python-tables ...
+Removing python-sympy ...
+Removing python-sqlitecachec ...
+Removing python-simplegeneric ...
+Removing python-scikits.statsmodels ...
+Removing python-pandas ...
+Removing python-pandas-lib ...
+Removing python-opencv ...
+Removing python-numexpr ...
+Removing python-support ...
+Removing python-sqlite ...
+Removing python-scipy ...
+Removing python-rpy ...
+Removing python-pyparsing ...
+Removing python-pip ...
+Removing python-twisted-web ...
+Removing python-twisted-names ...
+Removing python-twisted-core ...
+Removing python-zope.interface ...
+Removing python-xkit ...
+Removing python-configglue ...
+Removing python-xdg ...
+Removing python-xapian ...
+Removing python-wadllib ...
+Removing python-virtkey ...
+Removing python-urlgrabber ...
+Removing python-twisted-bin ...
+Removing python-tk ...
+Removing python-speechd ...
+Removing python-smbc ...
+Removing python-simplejson ...
+Removing python-setuptools ...
+Removing python-serial ...
+Removing python-scour ...
+Removing python-docutils ...
+Removing python-roman ...
+Removing python-reportlab-accel ...
+Removing python-reportlab ...
+Removing python-renderpm ...
+Removing python-pyinotify ...
+Removing python-pycurl ...
+Removing python-protobuf ...
+Removing python-nose ...
+Removing python-lazr.uri ...
+E: namespace:121: cannot remove /usr/lib/python2.7/dist-packages/lazr/__init__.py
+Removing python-pkg-resources ...
+Removing python-pexpect ...
+Removing python-pam ...
+Removing python-packagekit ...
+Removing python-oauth ...
+Removing python-numpy ...
+Removing python-notify ...
+Removing python-mako ...
+Removing python-markupsafe ...
+Removing python-louis ...
+Removing python-lockfile ...
+Removing python-ibus ...
+Removing python-gnomekeyring ...
+Removing python-glade2 ...
+Removing python-gtk2 ...
+Removing python-gconf ...
+Removing python-gobject-2 ...
+Removing python-gnupginterface ...
+Removing python-egenix-mxdatetime ...
+Removing python-egenix-mxtools ...
+Removing python-dirspec ...
+Removing python-defer ...
+Removing python-decorator ...
+Removing python-debian ...
+Removing python-dbus ...
+Removing python-dateutil ...
+Removing python-cups ...
+Removing python-configobj ...
+Removing python-chardet ...
+Removing python-cairo ...
+Removing python-brlapi ...
+Removing python ...
+Processing triggers for desktop-file-utils ...
+Processing triggers for bamfdaemon ...
+Rebuilding /usr/share/applications/bamf.index...
+Processing triggers for libc-bin ...
+ldconfig deferred processing now taking place
+Processing triggers for man-db ...
+packet_write_wait: Connection to 192.168.0.92: Broken pipe
+HYdeMacBook-Pro:~ apple$ ssh huangy@192.168.0.92
+huangy@192.168.0.92's password:
+Welcome to Ubuntu 12.04.5 LTS (GNU/Linux 3.13.0-32-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+Last login: Thu Jun 16 22:05:54 2016 from 10.10.0.29
+huangy@linux92:~$ ls
+code  data_mining  examples.desktop  nohup.out  repos  test_hy
+huangy@linux92:~$ python
+Python 2.7.3 (default, Jun 22 2015, 19:33:41)
+[GCC 4.6.3] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> quit()
+huangy@linux92:~$ python
+Python 2.7.3 (default, Jun 22 2015, 19:33:41)
+[GCC 4.6.3] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> quit()
+huangy@linux92:~$ ls
+code  data_mining  examples.desktop  nohup.out  repos  test_hy
+huangy@linux92:~$ cd code/
+huangy@linux92:~/code$ ls
+account.py    ctpFuturesGateway.py      futuresStrategy.py  strategyDB.py
+bar.py        dataBase.py               gateWay.py          strategy.py
+bar.pyc       eventEngine.py            historyDB.py        tick.py
+btGateway.py  eventType.py              order.py            tick.pyc
+constant.py   futuresBackTestEngine.py  orderReq.py         trade.py
+constant.pyc  futuresGateway.py         position.py         user.py
+huangy@linux92:~/code$ cd ..
+huangy@linux92:~$ ls
+code  data_mining  examples.desktop  nohup.out  repos  test_hy
+huangy@linux92:~$ cd data_mining/
+huangy@linux92:~/data_mining$ LS
+-bash: LS: command not found
+huangy@linux92:~/data_mining$ LS
+-bash: LS: command not found
+huangy@linux92:~/data_mining$ ls
+code  nyt_corpus  nyt_corpus_628804095.zip
+huangy@linux92:~/data_mining$ cd code/
+huangy@linux92:~/data_mining/code$ ls
+20news.py  linux后台命令  preprocessing.py  settings.json   small_data
+file.py    output.txt     result            sklearnTest.py  tfidf.py
+huangy@linux92:~/data_mining/code$ python preprocessing.py
+Traceback (most recent call last):
+  File "preprocessing.py", line 12, in <module>
+    import numpy as np
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/__init__.py", line 180, in <module>
+    from . import add_newdocs
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/core/__init__.py", line 58, in <module>
+    from numpy.testing.nosetester import _numpy_tester
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/__init__.py", line 12, in <module>
+    from . import decorators as dec
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/decorators.py", line 21, in <module>
+    from .utils import SkipTest
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/utils.py", line 15, in <module>
+    from tempfile import mkdtemp, mkstemp
+  File "/users/yaohl/anaconda2/lib/python2.7/tempfile.py", line 35, in <module>
+    from random import Random as _Random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+huangy@linux92:~/data_mining/code$ packet_write_wait: Connection to 192.168.0.92: Broken pipe
+HYdeMacBook-Pro:~ apple$ ssh huangy@192.168.0.92
+^C
+HYdeMacBook-Pro:~ apple$ ssh huangy@192.168.0.92
+huangy@192.168.0.92's password:
+Welcome to Ubuntu 12.04.5 LTS (GNU/Linux 3.13.0-32-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+Last login: Thu Jun 16 22:11:16 2016 from 10.10.0.29
+huangy@linux92:~$ python
+Python 2.7.3 (default, Jun 22 2015, 19:33:41)
+[GCC 4.6.3] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import numpy
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/__init__.py", line 180, in <module>
+    from . import add_newdocs
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/core/__init__.py", line 58, in <module>
+    from numpy.testing.nosetester import _numpy_tester
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/__init__.py", line 12, in <module>
+    from . import decorators as dec
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/decorators.py", line 21, in <module>
+    from .utils import SkipTest
+  File "/users/yaohl/anaconda2/lib/python2.7/site-packages/numpy/testing/utils.py", line 15, in <module>
+    from tempfile import mkdtemp, mkstemp
+  File "/users/yaohl/anaconda2/lib/python2.7/tempfile.py", line 35, in <module>
+    from random import Random as _Random
+  File "/users/yaohl/anaconda2/lib/python2.7/random.py", line 49, in <module>
+    import hashlib as _hashlib
+  File "/users/yaohl/anaconda2/lib/python2.7/hashlib.py", line 138, in <module>
+    _hashlib.openssl_md_meth_names)
+AttributeError: 'module' object has no attribute 'openssl_md_meth_names'
+>>> quit()
+huangy@linux92:~$
