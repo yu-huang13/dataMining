@@ -1,9 +1,0 @@
-nohup /opt/anaconda/bin/python classify.py >output.txt &
-
-查看pid对应的进程：
-ps -ef |grep pid
-
-杀死进程：
-kill pid
-
-24693

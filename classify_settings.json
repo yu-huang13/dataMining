@@ -1,0 +1,4 @@
+{
+	"path" : ["../nyt_corpus/data/1987"],
+	"classifier" : ["Top/News/Sports", "Top/News/Business", "Top/Features/Arts", "Top/Features/Travel", "Top/News/World", "Top/Features/Style", "Top/News/Health", "Top/News/Obituaries"]
+}

@@ -1,0 +1,1809 @@
+Top/News :  35007
+Top/News/New York and Region :  18551
+Top/Features/Travel/Guides/Destinations/North America :  14119
+Top/Classifieds/Paid Death Notices :  13769
+Top/Features/Travel/Guides/Destinations/North America/United States :  13510
+Top/Opinion :  11401
+Top/Opinion/Opinion :  11401
+Top/News/Business :  10716
+Top/Features/Arts :  9980
+Top/News/Sports :  8351
+Top/News/U.S. :  7103
+Top/News/U.S./Mid-Atlantic :  6944
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City :  6318
+Top/News/U.S./U.S. States, Territories and Possessions/New York :  5535
+Top/News/Technology :  5397
+Top/Opinion/Opinion/Letters :  5307
+Top/Features/Travel/Guides/Destinations/North America/United States/New York :  4732
+Top/News/World :  4611
+Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet :  4539
+Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance :  4419
+Top/Features/Style :  4319
+Top/Features/Travel/Guides/Destinations/Europe :  4311
+Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing :  3500
+Top/Features/Books :  3271
+Top/News/Front Page :  2945
+Top/Features/Travel/Guides/Activities and Interests/Music :  2915
+Top/Features/Arts/Music :  2858
+Top/News/Corrections :  2760
+Top/Features/Travel/Guides/Destinations/Asia :  2598
+Top/Features/Travel/Guides/Activities and Interests/Food and Wine :  2593
+Top/Features/Style/Fashion and Style :  2538
+Top/News/Washington/Campaign 2004/Candidates :  2495
+Top/Features/Movies :  2459
+Top/Features/Arts/Art and Design :  2418
+Top/News/World/Europe :  2379
+Top/News/U.S./South :  2359
+Top/News/Health :  2288
+Top/News/World/Asia Pacific :  2229
+Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO :  2179
+Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance :  2169
+Top/News/Washington/Campaign 2004/Candidates/George W Bush :  2105
+Top/News/Washington/Campaign 2008 :  1999
+Top/News/Washington/Campaign 2008/Candidates :  1999
+Top/News/Sports/Baseball :  1914
+Top/News/Education :  1901
+Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey :  1895
+Top/Features/Books/Book Reviews :  1792
+Top/News/New York and Region/New Jersey :  1768
+Top/Features/Travel/Guides/Activities and Interests/Art :  1736
+Top/News/Washington :  1733
+Top/News/New York and Region/Westchester :  1710
+Top/News/New York and Region/The City :  1707
+Top/News/Business/Media and Advertising :  1639
+Top/Features/Magazine :  1586
+Top/News/Business/Markets :  1584
+Top/News/Sports/Pro Basketball :  1549
+Top/Features/Travel/Guides/Destinations/Middle East :  1533
+Top/News/Business/Your Money :  1525
+Top/Features/Style/Fashion and Style/Weddings and Celebrations :  1505
+Top/News/Obituaries :  1493
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida :  1469
+Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel :  1451
+Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR :  1421
+Top/Features/Week in Review :  1374
+Top/Features/Travel/Guides/Activities and Interests/Family :  1373
+Top/News/U.S./U.S. States, Territories and Possessions/New Jersey :  1360
+Top/News/Sports/Pro Football :  1338
+Top/Classifieds/Job Market/Job Categories/Education :  1338
+Top/News/New York and Region/Long Island :  1312
+Top/Features/Theater :  1276
+Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics :  1275
+Top/News/Business/World Business :  1263
+Top/Opinion/Opinion/Op-Ed :  1244
+Top/News/World/Middle East :  1236
+Top/Classifieds/Job Market/Job Categories/Legal :  1230
+Top/News/World/Americas :  1223
+Top/Opinion/Opinion/Editorials :  1209
+Top/Features/Travel/Sunday Travel :  1194
+Top/Features/Movies/News and Features :  1170
+Top/News/U.S./Midwest :  1102
+Top/Classifieds/Job Market/Job Categories/Art and Design :  1080
+Top/Features/Travel/Guides/Destinations/Middle East/Israel :  1076
+Top/News/Sports/Baseball/Major League/New York Yankees :  1066
+Top/News/World/Countries and Territories/United States :  1004
+Top/News/U.S./U.S. States, Territories and Possessions/Florida :  957
+Top/News/New York and Region/Connecticut :  951
+Top/News/Sports/Baseball/Major League/New York Mets :  951
+Top/News/Science :  942
+Top/Features/Travel/Guides/Destinations/Africa :  938
+Top/Classifieds/Job Market/Job Categories/Healthcare :  932
+Top/News/U.S./New England :  931
+Top/Features/Arts/Music/Reviews :  921
+Top/Features/Dining and Wine :  921
+Top/Features/Travel/Guides/Destinations/Asia/China :  903
+Top/Features/Travel/Guides/Destinations/Europe/Russia :  898
+Top/News/Technology/Circuits :  890
+Top/Features/Travel/Guides/Destinations/Central and South America :  873
+Top/Features/Home and Garden :  861
+Top/Features/Theater/Plays :  859
+Top/Features/Theater/News and Features :  854
+Top/Features/Travel/Guides/Destinations/Europe/Britain :  825
+Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health :  815
+Top/News/Business/Columns/Addenda :  807
+Top/Classifieds/Real Estate :  791
+Top/News/Sports/Hockey :  786
+Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security :  780
+Top/News/U.S./West :  773
+Top/Features/Travel/Guides/Destinations/North America/United States/California :  719
+Top/Features/Arts/Art and Design/Reviews :  715
+Top/Features/Travel/Guides/Activities and Interests/Road Trips :  711
+Top/News/World/Countries and Territories/Russia and the Former Soviet Union :  706
+Top/Features/Travel :  688
+Top/Features/Arts/Dance :  682
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda :  675
+Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut :  673
+Top/Features/Travel/Guides/Activities and Interests/Shopping :  672
+Top/News/World/Countries and Territories/Israel :  672
+Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness :  668
+Top/Opinion/Opinion/Op-Ed/Contributors :  650
+Top/News/World/Countries and Territories/Russia :  647
+Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority :  642
+Top/News/World/Countries and Territories/China :  624
+Top/News/World/Africa :  600
+Top/News/U.S./Southwest :  598
+Top/Classifieds/Job Market/Job Categories/Retail :  584
+Top/News/Washington/Campaign 2004/States/Florida :  566
+Top/Features/Movies/Reviews :  550
+Top/Features/Travel/Guides/Destinations/Asia/Japan :  550
+Top/Features/Travel/Guides/Destinations/Australia and Pacific :  548
+Top/Classifieds/Real Estate/Locations/New York :  542
+Top/News/U.S./U.S. States, Territories and Possessions/Connecticut :  524
+Top/Features/Dining and Wine/Restaurant Reviews :  523
+Top/News/Sports/Olympics 2004 :  519
+Top/Classifieds/Real Estate/Locations/New York/New York City :  511
+Top/Opinion/Opinion/Op-Ed/Columnists :  510
+Top/Features/Travel/Guides/Destinations/Europe/France :  501
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Cuba :  495
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia :  495
+Top/News/U.S./U.S. States, Territories and Possessions/California :  480
+Top/News/World/Countries and Territories/Great Britain :  435
+Top/News/World/Countries and Territories/United Kingdom :  435
+Top/News/World/Countries and Territories/Australia :  430
+Top/Features/Travel/Guides/Activities and Interests/Beaches :  429
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia/Sydney :  424
+Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science :  421
+Top/Features/Theater/Reviews :  419
+Top/Features/Travel/Guides/Activities and Interests/Golf :  405
+Top/News/World/Countries and Territories/Japan :  404
+Top/News/Sports/Pro Football/National Football League/New York Jets :  401
+Top/News/New York and Region/Columns/Public Lives :  400
+Top/Classifieds/Job Market/Job Categories/Sales and Business Development :  392
+Top/Features/Travel/Guides/Destinations/Europe/Germany :  387
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas :  385
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island :  380
+Top/News/Sports/Golf :  377
+Top/Features/Arts/Dance/Reviews :  374
+Top/Features/Travel/Guides/Activities and Interests/Wildlife :  371
+Top/Features/Travel/Guides/Destinations/Europe/Serbia :  367
+Top/Features/Travel/Guides/Activities and Interests/Gardens :  363
+Top/Features/Travel/Guides/Destinations/North America/Canada :  357
+Top/Classifieds/Real Estate/Locations/Regions :  347
+Top/News/Science/Environment :  330
+Top/News/Sports/Pro Football/National Football League/New York Giants :  326
+Top/News/Sports/Tennis :  325
+Top/News/Sports/Hockey/National Hockey League/New Jersey Devils :  316
+Top/Features/Travel/Guides/Destinations/North America/Mexico :  309
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Miami :  305
+Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care :  304
+Top/News/Health/Mental Health and Behavior :  295
+Top/News/World/Countries and Territories/Cuba :  284
+Top/News/World/Countries and Territories/Germany :  274
+Top/News/U.S./Rockies :  272
+Top/News/World/Countries and Territories/Serbia :  272
+Top/News/U.S./U.S. States, Territories and Possessions/Texas :  272
+Top/Features/Travel/Guides/Destinations/Europe/Italy :  267
+Top/News/U.S./Northwest :  265
+Top/News/Sports/Pro Basketball/National Basketball Association/New Jersey Nets :  265
+Top/News/Sports/Hockey/National Hockey League/New York Rangers :  259
+Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks :  255
+Top/News/World/Countries and Territories/France :  255
+Top/News/Business/Small Business/Marketing and Advertising :  252
+Top/News/U.S./Plains :  251
+Top/Features/Travel/Guides/Destinations/Central and South America/Brazil :  251
+Top/News/World/Countries and Territories/Mexico :  250
+Top/News/Sports/Soccer :  242
+Top/News/Business/Columns/Advertising :  242
+Top/Features/Travel/Sunday Travel/Letters :  241
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles :  241
+Top/Classifieds/Automobiles :  230
+Top/Features/Travel/Guides/Destinations/Asia/South Korea :  229
+Top/Features/Travel/Guides/Activities and Interests/Architecture :  224
+Top/Features/Travel/Guides/Destinations/Asia/India :  216
+Top/News/Science/Space and Cosmos :  215
+Top/News/Washington/Campaign 2004/States/New Jersey :  206
+Top/News/Health/Diseases, Conditions, and Health Topics/Cancer :  205
+Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders :  203
+Top/News/Health/Diseases, Conditions, and Health Topics/Doctors :  200
+Top/Features/Travel/Guides/Activities and Interests/Eco-tourism :  191
+Top/News/World/Countries and Territories/Canada :  189
+Top/Features/Arts/Television :  187
+Top/Features/Arts/Television/Reviews :  187
+Top/Features/Theater/News and Features/People :  187
+Top/Features/Travel/Guides/Destinations/North America/United States/South Carolina :  185
+Top/Features/Travel/Guides/Destinations/Middle East/Iran :  182
+Top/News/Washington/Campaign 2004/Candidates/Joseph I Lieberman :  179
+Top/Features/Crossword and Games/Bridge :  175
+Top/News/Sports/Baseball/Major League/Atlanta Braves :  173
+Top/Features/Travel/Guides/Destinations/North America/United States/Michigan :  171
+Top/News/Business/Columns/Market Place :  167
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts :  165
+Top/Features/Travel/Guides/Destinations/Middle East/Lebanon :  163
+Top/Features/Travel/Guides/Destinations/Middle East/West Bank :  162
+Top/Features/Dining and Wine/Recipes :  162
+Top/Features/Travel/Guides/Destinations/Europe/Britain/England :  161
+Top/Features/Travel/Guides/Destinations/North America/United States/New Hampshire :  161
+Top/Features/Travel/Guides/Destinations/Central and South America/Colombia :  160
+Top/News/Sports/Hockey/National Hockey League/New York Islanders :  157
+Top/Features/Travel/Guides/Destinations/Middle East/Israel/Jerusalem :  157
+Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity :  157
+Top/Features/Travel/Guides/Activities and Interests/History :  156
+Top/Features/Movies/Reviews/By A. O. Scott :  154
+Top/Features/Movies/Reviews/By Stephen Holden :  153
+Top/Classifieds/Job Market/Job Categories/Engineering and Architecture :  152
+Top/News/Health/Diseases, Conditions, and Health Topics/Medicare :  151
+Top/Features/Travel/Guides/Destinations/Asia/Taiwan :  151
+Top/Features/Travel/Guides/Activities and Interests/Boating :  148
+Top/Features/Travel/Guides/Destinations/North America/United States/Illinois :  147
+Top/Features/Travel/Guides/Destinations/North America/United States/Washington :  146
+Top/Features/Travel/Guides/Destinations/Europe/Spain :  146
+Top/Classifieds/Job Market :  145
+Top/News/Editors' Notes :  143
+Top/Features/Movies/Columns :  141
+Top/Features/Movies/News and Features/Columns :  141
+Top/News/U.S./U.S. States, Territories and Possessions/South Carolina :  139
+Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania :  139
+Top/Features/Travel/Guides/Destinations/Africa/South Africa :  138
+Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C. :  137
+Top/News/World/Countries and Territories/Italy :  137
+Top/Features/Travel/Guides/Destinations/Asia/Indonesia :  136
+Top/News/Sports/Pro Basketball/National Basketball Association/Indiana Pacers :  136
+Top/Features/Travel/Guides/Destinations/Europe/Turkey :  136
+Top/Features/Travel/Guides/Destinations/Asia/North Korea :  136
+Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals :  135
+Top/Features/Travel/Guides/Destinations/Middle East/Syria :  134
+Top/News/U.S./U.S. States, Territories and Possessions/Michigan :  133
+Top/News/Sports/Columns/George Vecsey :  133
+Top/Features/Travel/Guides/Activities and Interests/Birds :  133
+Top/News/Technology/John Markoff :  132
+Top/Features/Travel/Guides/Destinations/Europe/Russia/Chechnya :  132
+Top/Features/Travel/Guides/Destinations/North America/United States/Iowa :  129
+Top/News/World/Countries and Territories/India :  128
+Top/Classifieds/Job Market/Job Categories/Executive :  128
+Top/News/World/Countries and Territories/Iran :  126
+Top/News/World/Countries and Territories/Brazil :  126
+Top/Features/Travel/Guides/Destinations/Middle East/Iraq :  125
+Top/News/U.S./U.S. States, Territories and Possessions/New Hampshire :  124
+Top/Features/Dining and Wine/Wine Reviews :  123
+Top/News/Health/Columns/Vital Signs :  122
+Top/News/World/Countries and Territories/Lebanon :  122
+Top/Classifieds/Real Estate/Columns/In the Region :  122
+Top/Features/Movies/Reviews/By Elvis Mitchell :  122
+Top/Features/Travel/Guides/Activities and Interests/Archeology and Anthropology :  120
+Top/Features/Travel/Guides/Destinations/Europe/France/Paris :  119
+Top/News/World/Countries and Territories/South Korea :  119
+Top/Features/Travel/Guides/Destinations/North America/United States/Georgia :  119
+Top/Features/Travel/Guides/Activities and Interests/Biking :  119
+Top/News/Sports/Pro Football/National Football League/St. Louis Rams :  118
+Top/News/Sports/Columns/Dave Anderson :  117
+Top/News/Sports/Pro Basketball/National Basketball Association/Miami Heat :  117
+Top/News/Business/Small Business/Innovation :  117
+Top/Features/Dining and Wine/Columns/Food Stuff :  116
+Top/News/Sports/Columns/William C Rhoden :  114
+Top/News/Sports/Columns/Harvey Araton :  113
+Top/News/Health/Diseases, Conditions, and Health Topics/Handicapped :  112
+Top/News/World/Countries and Territories/Taiwan :  112
+Top/Features/Travel/Guides/Destinations/Asia/Pakistan :  110
+Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London :  109
+Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Philadelphia :  108
+Top/Features/Travel/Guides/Destinations/Central and South America/Peru :  108
+Top/News/Washington/Campaign 2004/States/New York :  108
+Top/News/U.S./U.S. States, Territories and Possessions/Illinois :  107
+Top/News/Health/Diseases, Conditions, and Health Topics/Transplants :  107
+Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts :  105
+Top/News/U.S./U.S. States, Territories and Possessions/Washington :  104
+Top/Features/Books/Columns/Children's Books :  104
+Top/News/Sports/Pro Basketball/National Basketball Association/Los Angeles Lakers :  104
+Top/Classifieds/Real Estate/Locations/New Jersey :  103
+Top/News/Health/Diseases, Conditions, and Health Topics/AIDS :  103
+Top/News/Sports/Baseball/Major League/Seattle Mariners :  102
+Top/News/World/Countries and Territories/Indonesia :  102
+Top/Features/Travel/Guides/Destinations/Africa/Egypt :  101
+Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd :  101
+Top/News/Health/Health Care Policy :  101
+Top/Features/Travel/Guides/Destinations/Africa/Sierra Leone :  99
+Top/News/U.S./U.S. States, Territories and Possessions/Iowa :  99
+Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman :  98
+Top/News/World/Countries and Territories/Turkey :  97
+Top/Features/Movies/DVD and Video :  97
+Top/Features/Home and Garden/Columns/Cuttings :  97
+Top/News/Sports/Pro Football/National Football League/Tennessee Titans :  97
+Top/News/New York and Region/Columns/The Neediest Cases :  96
+Top/News/World/Countries and Territories/Colombia :  96
+Top/Opinion/Opinion/Op-Ed/Columnists/Thomas L Friedman :  96
+Top/News/Health/Diseases, Conditions, and Health Topics/West Nile Virus :  96
+Top/Features/Travel/Guides/Destinations/Europe/Austria :  95
+Top/News/Sports/Other Sports :  95
+Top/Opinion/Opinion/Op-Ed/Columnists/Bob Herbert :  94
+Top/News/World/Countries and Territories/South Africa :  94
+Top/Opinion/Opinion/Op-Ed/Columnists/William Safire :  94
+Top/Features/Travel/Guides/Destinations/North America/United States/Colorado :  94
+Top/Features/Travel/Guides/Destinations/Middle East/Gaza Strip :  93
+Top/News/World/Countries and Territories/North Korea :  93
+Top/News/World/Countries and Territories/Syria :  92
+Top/Features/Travel/Guides/Destinations/Europe/Ireland :  92
+Top/News/Health/Diseases, Conditions, and Health Topics/Encephalitis :  92
+Top/News/Health/Diseases, Conditions, and Health Topics/Diet :  92
+Top/News/Sports/Olympics 2004/Track and Field :  91
+Top/News/World/Countries and Territories/Iraq :  90
+Top/Features/Travel/Guides/Destinations/Central and South America/Chile :  90
+Top/News/U.S./U.S. States, Territories and Possessions/Georgia :  89
+Top/News/New York and Region/Columns/NYC :  88
+Top/Features/Travel/Guides/Destinations/Europe/Switzerland :  87
+Top/Features/Travel/Guides/Destinations/Middle East/Yemen :  87
+Top/News/Washington/Campaign 2004/States/California :  87
+Top/Features/Travel/Guides/Destinations/Europe/Netherlands :  87
+Top/Features/Travel/Guides/Destinations/North America/United States/Ohio :  87
+Top/Features/Travel/Guides/Destinations/North America/United States/Oregon :  86
+Top/News/Washington/Campaign 2004/Candidates/Ralph Nader :  85
+Top/Opinion/Opinion/Op-Ed/Columnists/John Tierney :  85
+Top/Features/Movies/News and Features/Awards :  84
+Top/Opinion/Opinion/Op-Ed/Columnists/Gail Collins :  84
+Top/News/Sports/Baseball/Major League/San Francisco Giants :  84
+Top/Classifieds/Job Market/Job Categories/Construction and Maintenance :  84
+Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania :  83
+Top/Features/Travel/Guides/Destinations/Asia/Vietnam :  82
+Top/Features/Travel/Guides/Destinations/North America/United States/Arizona :  80
+Top/Features/Travel/Guides/Destinations/North America/United States/Missouri :  80
+Top/News/Sports/Baseball/Major League/Chicago Cubs :  80
+Top/News/Sports/Baseball/Major League/St Louis Cardinals :  79
+Top/News/World/Countries and Territories/Spain :  79
+Top/News/New York and Region/Columns/Metro Matters :  78
+Top/Features/Movies/News and Features/Film Festivals :  78
+Top/Features/Travel/Guides/Destinations/North America/United States/Virginia :  78
+Top/Features/Travel/Guides/Destinations/North America/United States/Maryland :  77
+Top/News/Sports/Baseball/Major League/Cincinnati Reds :  77
+Top/News/U.S./U.S. States, Territories and Possessions/Colorado :  77
+Top/News/World/Countries and Territories/Egypt :  76
+Top/Features/Travel/Guides/Activities and Interests/Business :  76
+Top/Features/Crossword and Games/Chess :  76
+Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C. :  75
+Top/Classifieds/Real Estate/Locations/New York/Westchester :  75
+Top/Features/Travel/Guides/Destinations/Africa/Zimbabwe :  75
+Top/Features/Travel/Guides/Destinations/Asia/Afghanistan :  74
+Top/Features/Travel/Guides/Destinations/Europe/Bosnia and Herzegovina :  74
+Top/Classifieds/Real Estate/Locations/New York/Upstate :  74
+Top/News/Health/Diseases, Conditions, and Health Topics/Suicides and Suicide Attempts :  74
+Top/Features/Travel/Guides/Destinations/Europe/Britain/Northern Ireland :  74
+Top/Features/Travel/Industry News :  73
+Top/News/Washington/Campaign 2004/Issues/Foreign Policy :  72
+Top/News/Washington/Campaign 2004/States/Connecticut :  72
+Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana :  71
+Top/News/World/Countries and Territories/Peru :  70
+Top/Features/Travel/Guides/Destinations/Asia/China/Hong Kong :  70
+Top/News/Health/Diseases, Conditions, and Health Topics/Food Contamination and Poisoning :  70
+Top/News/Sports/Pro Basketball/National Basketball Association/Toronto Raptors :  69
+Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago :  69
+Top/Features/Travel/Guides/Destinations/North America/United States/Arkansas :  69
+Top/News/U.S./U.S. States, Territories and Possessions/Missouri :  68
+Top/News/World/Countries and Territories/Sierra Leone :  68
+Top/News/Sports/Hockey/National Hockey League/Philadelphia Flyers :  68
+Top/News/U.S./U.S. States, Territories and Possessions/Ohio :  68
+Top/Features/Magazine/Columns/What They Were Thinking :  67
+Top/Features/Travel/Guides/Destinations/Asia/Philippines :  67
+Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina :  66
+Top/Features/Travel/Guides/Activities and Interests/Cruises :  66
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Boston :  66
+Top/Features/Travel/Guides/Destinations/Central and South America/Argentina :  66
+Top/News/Sports/Baseball/Major League/Baltimore Orioles :  65
+Top/News/Sports/Pro Football/National Football League/Tampa Bay Buccaneers :  65
+Top/News/World/Countries and Territories/Pakistan :  65
+Top/Features/Travel/Guides/Destinations/North America/United States/California/San Francisco :  65
+Top/Features/Movies/News and Features/Columns/Home Video :  64
+Top/Features/Movies/Columns/Home Video :  64
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island/The Hamptons :  64
+Top/Classifieds/Job Market/Job Categories/Diversity :  64
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals) :  63
+Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee :  63
+Top/News/New York and Region/Columns/Our Towns :  63
+Top/News/World/Countries and Territories/Yemen :  62
+Top/Features/Travel/Guides/Destinations/North America/United States/Nevada :  62
+Top/News/Washington/Campaign 2004/Issues/Homeland Security :  62
+Top/News/World/Countries and Territories/Austria :  62
+Top/News/Sports/Pro Football/National Football League/Washington Redskins :  61
+Top/Features/Travel/Guides/Destinations/North America/United States/New Mexico :  61
+Top/Classifieds/Automobiles/Topics/Green Tech :  61
+Top/Classifieds/Real Estate/Locations/New York/Long Island :  61
+Top/News/Sports/Baseball/Major League/Cleveland Indians :  60
+Top/News/U.S./U.S. States, Territories and Possessions/Alaska :  60
+Top/Features/Travel/Guides/Destinations/North America/United States/Georgia/Atlanta :  60
+Top/News/Health/Fitness and Nutrition :  59
+Top/Classifieds/Real Estate/Locations/New York/New York City/Manhattan :  59
+Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin :  58
+Top/Features/Travel/Guides/Destinations/Central and South America/Venezuela :  58
+Top/News/Sports/Hockey/National Hockey League/Dallas Stars :  58
+Top/Features/Travel/Guides/Destinations/North America/United States/Vermont :  57
+Top/News/World/Countries and Territories/Netherlands :  57
+Top/News/World/Countries and Territories/Switzerland :  57
+Top/Features/Travel/Guides/Destinations/North America/United States/Utah :  56
+Top/Features/Travel/Guides/Destinations/Middle East/Saudi Arabia :  56
+Top/Classifieds/Real Estate/Columns/Streetscapes :  55
+Top/Classifieds/Real Estate/Columns/Habitats :  55
+Top/Features/Movies/News and Features/Awards/Academy Awards :  55
+Top/News/World/Countries and Territories/Zimbabwe :  55
+Top/Classifieds/Job Market/Job Categories/Human Resources :  55
+Top/News/Washington/Campaign 2004/States/Michigan :  55
+Top/Classifieds/Automobiles/Topics/Wheel Spin :  55
+Top/News/U.S./U.S. States, Territories and Possessions/Virginia :  55
+Top/Features/Dining and Wine/Columns/Good Eating :  54
+Top/News/Education/Columns/Bulletin Board :  54
+Top/News/Business/Columns/Floyd Norris :  54
+Top/News/U.S./U.S. States, Territories and Possessions/Oregon :  54
+Top/Features/Home and Garden/Columns/Personal Shopper :  54
+Top/News/Sports/Baseball/Major League/Boston Red Sox :  54
+Top/Features/Travel/Guides/Activities and Interests/Skiing :  54
+Top/Features/Dining and Wine/Columns/Restaurants :  54
+Top/News/Technology/Columns/Patents :  53
+Top/News/Business/Columns/Market Insight :  53
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Haiti :  53
+Top/News/Business/Columns/Gretchen Morgenson :  53
+Top/Features/Arts/Columns/Antiques :  53
+Top/Features/Travel/Guides/Destinations/North America/United States/Alaska :  53
+Top/Features/Travel/Guides/Destinations/Africa/Kenya :  53
+Top/Classifieds/Real Estate/Columns/Your Home :  53
+Top/Features/Theater/News and Features/Companies and Organizations :  53
+Top/News/U.S./U.S. States, Territories and Possessions/Tennessee :  53
+Top/News/Business/Columns/Economic View :  53
+Top/News/World/Countries and Territories/Bosnia and Herzegovina :  53
+Top/Features/Magazine/Columns/The Ethicist :  52
+Top/Features/Movies/News and Features/Columns/At the Movies :  52
+Top/News/Technology/Columns/Q and A :  52
+Top/Features/Travel/Guides/Destinations/North America/United States/Alabama :  52
+Top/News/Technology/Columns/State of the Art :  52
+Top/Features/Travel/Columns/Practical Traveler :  52
+Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons :  52
+Top/News/U.S./U.S. States, Territories and Possessions/Arkansas :  52
+Top/Features/Style/Fashion and Style/Columns/Vows :  52
+Top/News/Technology/Columns/Online Shopper :  52
+Top/Features/Movies/Columns/At the Movies :  52
+Top/Features/Arts/Columns/Inside Art :  52
+Top/News/World/Countries and Territories/Hong Kong :  52
+Top/News/Business/Small Business/Operations :  51
+Top/Features/Dining and Wine/Columns/Diner's Journal :  51
+Top/Classifieds/Automobiles/Topics/Motoring :  51
+Top/News/New York and Region/Columns/Metropolitan Diary :  51
+Top/News/Business/Small Business/E-Commerce :  51
+Top/News/Technology/Columns/E-Commerce Report :  51
+Top/News/Washington/Campaign 2004/States/Texas :  51
+Top/Features/Travel/Guides/Destinations/North America/United States/Maine :  51
+Top/Features/Magazine/Columns/On Language :  51
+Top/News/Science/Columns/Observatory :  51
+Top/Features/Dining and Wine/Columns/Wine Talk :  51
+Top/Features/Dining and Wine/Columns/The Minimalist :  50
+Top/News/Sports/Baseball/Major League/Oakland Athletics :  50
+Top/News/U.S./U.S. States, Territories and Possessions/Wisconsin :  50
+Top/News/Sports/Baseball/Major League/Los Angeles Dodgers :  50
+Top/News/U.S./U.S. States, Territories and Possessions/Arizona :  50
+Top/News/Health/Columns/Personal Health :  50
+Top/Features/Dining and Wine/Columns/Off the Menu :  50
+Top/Features/Travel/Guides/Destinations/Europe/Czech Republic :  50
+Top/News/Sports/Columns/Ira Berkow :  50
+Top/Features/Dining and Wine/Columns/$25 and Under :  50
+Top/News/Sports/Baseball/Major League/Philadelphia Phillies :  50
+Top/News/World/Countries and Territories/Vietnam :  50
+Top/News/Sports/Baseball/Major League/Chicago White Sox :  49
+Top/News/New York and Region/Columns/Following Up :  49
+Top/News/World/Countries and Territories/Saudi Arabia :  49
+Top/Features/Travel/Columns/Q and A :  49
+Top/Features/Travel/Guides/Destinations/Europe/Ukraine :  49
+Top/News/U.S./U.S. States, Territories and Possessions/North Carolina :  49
+Top/News/World/Countries and Territories/Chile :  49
+Top/Features/Travel/Guides/Destinations/North America/United States/Washington/Seattle :  49
+Top/Features/Arts/Columns/On Stage and Off :  49
+Top/News/Sports/Baseball/Major League/Texas Rangers :  48
+Top/Features/Travel/Guides/Destinations/Asia/Thailand :  48
+Top/News/Sports/Pro Football/National Football League/Miami Dolphins :  48
+Top/News/Health/Diseases, Conditions, and Health Topics/Pediatrics :  48
+Top/News/World/Countries and Territories/Afghanistan :  48
+Top/News/Technology/Columns/Game Theory :  48
+Top/News/U.S./U.S. States, Territories and Possessions/Maryland :  48
+Top/News/Sports/Baseball/Major League/Detroit Tigers :  48
+Top/Features/Travel/Guides/Destinations/Europe/Greece :  48
+Top/Features/Travel/Guides/Destinations/Europe/Sweden :  48
+Top/Features/Travel/Columns/What's Doing :  47
+Top/News/Sports/Baseball/Major League/Toronto Blue Jays :  47
+Top/Features/Travel/Guides/Destinations/Africa/Ethiopia :  47
+Top/News/Sports/Hockey/National Hockey League/Toronto Maple Leafs :  46
+Top/Classifieds/Job Market/Job Categories/Accounting :  46
+Top/News/Business/Columns/Business Travel :  46
+Top/News/Washington/Campaign 2004/States/Pennsylvania :  46
+Top/Features/Travel/Guides/Destinations/Middle East/Jordan :  46
+Top/Features/Travel/Guides/Destinations/Africa/Congo, The Democratic Republic of the :  45
+Top/News/Science/Columns/Q and A :  45
+Top/Features/Travel/Guides/Destinations/Asia/Myanmar :  45
+Top/News/Health/Diseases, Conditions, and Health Topics/Breast Cancer :  45
+Top/News/Washington/Campaign 2004/States/Iowa :  45
+Top/Features/Books/Columns/Making Books :  45
+Top/News/Sports/Pro Football/National Football League/New England Patriots :  45
+Top/Features/Travel/Sophisticated Traveler Magazine :  45
+Top/News/Health/Diseases, Conditions, and Health Topics/Vaccination and Immunization :  44
+Top/News/U.S./U.S. States, Territories and Possessions/Louisiana :  44
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Rome :  44
+Top/News/Sports/Olympics 2004/Swimming :  44
+Top/Features/Travel/Guides/Activities and Interests/Hiking :  44
+Top/Features/Travel/Guides/Destinations/Africa/Nigeria :  44
+Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological) :  43
+Top/News/World/Countries and Territories/Great Britain/Northern Ireland :  43
+Top/News/Washington/Campaign 2004 :  43
+Top/Features/Travel/Guides/Activities and Interests/Fishing :  43
+Top/News/Sports/Baseball/Major League/Houston Astros :  43
+Top/Features/Travel/Guides/Destinations/Europe/Poland :  43
+Top/Features/Travel/Guides/Destinations/North America/United States/Delaware :  43
+Top/Features/Style/Fashion and Style/Columns/A Night Out With :  43
+Top/Features/Travel/Guides/Destinations/North America/United States/Montana :  42
+Top/Features/Magazine/Columns/Food :  42
+Top/Classifieds/Job Market/Job Categories/Defense :  42
+Top/Features/Travel/Guides/Destinations/Asia/India/Kashmir and Jammu :  42
+Top/News/U.S./U.S. States, Territories and Possessions/New Mexico :  41
+Top/News/Sports/Baseball/Major League/Florida Marlins :  41
+Top/Features/Travel/Guides/Destinations/Central and South America/Ecuador :  41
+Top/News/Business/Small Business/Startup :  41
+Top/News/Business/Columns/Investing With :  41
+Top/News/World/Countries and Territories/Ireland :  41
+Top/News/World/Countries and Territories/Venezuela :  41
+Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota :  41
+Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/Hartford :  40
+Top/News/Health/Diseases, Conditions, and Health Topics/Medicaid :  40
+Top/Features/Theater/News and Features/Tony Awards :  40
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/New Zealand :  40
+Top/News/Sports/Pro Football/National Football League/Baltimore Ravens :  40
+Top/Features/Travel/Guides/Destinations/Europe/Britain/Scotland :  40
+Top/Classifieds/Automobiles/Topics/Automobile Technology :  40
+Top/News/Washington/Campaign 2004/States/New Hampshire :  39
+Top/News/Sports/Pro Football/National Football League/Jacksonville Jaguars :  39
+Top/Features/Travel/Guides/Destinations/North America/United States/Kentucky :  39
+Top/News/World/Countries and Territories/Philippines :  39
+Top/Features/Style/Fashion and Style/Fashion Review :  39
+Top/News/U.S./U.S. States, Territories and Possessions/Utah :  39
+Top/Features/Travel/Guides/Destinations/Asia/China/Beijing :  39
+Top/News/World/Countries and Territories/Argentina :  39
+Top/Features/Travel/Guides/Destinations/Europe/Denmark :  39
+Top/News/World/Countries and Territories/Congo, The Democratic Republic of :  38
+Top/News/Sports/Baseball/Major League/Tampa Bay Devil Rays :  38
+Top/News/U.S./U.S. States, Territories and Possessions/Vermont :  38
+Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Atlantic City :  38
+Top/News/Technology/Columns/New Economy :  38
+Top/News/Sports/Baseball/Major League/Tampa Bay Rays :  38
+Top/News/Technology/Columns/What's Next :  38
+Top/Features/Travel/Guides/Destinations/Africa/Tanzania :  37
+Top/Classifieds/Job Market/Job Categories/Real Estate :  37
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico :  37
+Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/New Haven :  36
+Top/Features/Travel/Guides/Destinations/Africa/Uganda :  36
+Top/News/Sports/Pro Football/National Football League/Dallas Cowboys :  36
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas/Houston :  36
+Top/Features/Travel/Guides/Destinations/North America/United States/Nebraska :  36
+Top/Features/Theater/News and Features/People/William Shakespeare :  36
+Top/News/Sports/Pro Basketball/National Basketball Association :  35
+Top/Features/Travel/Guides/Destinations/Europe/Norway :  35
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Finger Lakes :  35
+Top/News/Business/Columns/Economic Scene :  35
+Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana/New Orleans :  35
+Top/News/Washington/Campaign 2004/States/Missouri :  35
+Top/Features/Travel/Guides/Destinations/Asia/Cambodia :  35
+Top/News/Sports/Pro Basketball/National Basketball Association/Seattle SuperSonics :  35
+Top/News/Washington/Campaign 2004/States/South Carolina :  35
+Top/News/World/Countries and Territories/Jordan :  35
+Top/News/World/Countries and Territories/Greece :  35
+Top/Features/Arts/Columns/The Pop Life :  35
+Top/News/Washington/Campaign 2004/States/Ohio :  34
+Top/News/Sports/Hockey/National Hockey League/Florida Panthers :  34
+Top/Features/Travel/Guides/Activities and Interests/National Parks :  34
+Top/News/World/Countries and Territories/New Zealand :  34
+Top/News/World/Countries and Territories/Czech Republic :  34
+Top/Features/Travel/Guides/Destinations/Asia/Singapore :  34
+Top/News/Sports/Baseball/Major League/Los Angeles Angels :  34
+Top/News/World/Countries and Territories/Thailand :  33
+Top/Features/Travel/Guides/Destinations/North America/United States/Hawaii :  33
+Top/Classifieds/Real Estate/Locations/Regions/Western States :  33
+Top/News/Sports/Pro Basketball/National Basketball Association/Portland Trail Blazers :  33
+Top/News/Sports/Olympics 2004/Gymnastics :  33
+Top/Features/Travel/Guides/Destinations/North America/United States/Rhode Island :  33
+Top/News/Sports/Olympics 2004/Basketball :  33
+Top/News/Sports/Baseball/Major League/Arizona Diamondbacks :  33
+Top/Features/Movies/News and Features/Studios :  33
+Top/News/U.S./U.S. States, Territories and Possessions/Maine :  32
+Top/Features/Travel/Guides/Destinations/North America/United States/Oklahoma :  32
+Top/Features/Travel/Guides/Destinations/Africa/Eritrea :  32
+Top/News/Sports/Pro Basketball/National Basketball Association/Washington Wizards :  32
+Top/News/Health/Diseases, Conditions, and Health Topics/Prostate Cancer :  32
+Top/News/Sports/Pro Football/National Football League :  32
+Top/Features/Travel/Guides/Destinations/Europe/Romania :  32
+Top/News/U.S./U.S. States, Territories and Possessions/Alabama :  32
+Top/Features/Travel/Guides/Destinations/Africa/Libya :  31
+Top/News/Health/Diseases, Conditions, and Health Topics/Malpractice :  31
+Top/Features/Travel/Guides/Destinations/North America/United States/Indiana :  31
+Top/News/World/Countries and Territories/Ukraine :  31
+Top/News/Sports/Baseball/Major League/Colorado Rockies :  31
+Top/News/U.S./U.S. States, Territories and Possessions/Kentucky :  31
+Top/Features/Movies/News and Features/Advertising and Marketing :  31
+Top/News/Health/Diseases, Conditions, and Health Topics/Nursing and Nurses :  31
+Top/Features/Travel/Guides/Destinations/Asia/East Timor :  31
+Top/Features/Travel/Guides/Destinations/Europe/Belgium :  30
+Top/News/Washington/Campaign 2004/States/Washington :  30
+Top/News/U.S./U.S. States, Territories and Possessions/Nebraska :  30
+Top/News/Sports/Pro Basketball/National Basketball Association/Philadelphia 76ers :  30
+Top/News/Health/Diseases, Conditions, and Health Topics/Therapy and Rehabilitation :  30
+Top/Classifieds/Real Estate/Locations/Connecticut :  30
+Top/Features/Travel/Guides/Destinations/Asia/China/Tibet :  29
+Top/News/World/Countries and Territories/Uganda :  29
+Top/News/World/Countries and Territories/Sweden :  29
+Top/Opinion/Opinion/Op-Ed/Columnists/Frank Rich :  29
+Top/News/Sports/Pro Football/National Football League/Detroit Lions :  29
+Top/News/Business/Columns/Strategies :  29
+Top/Features/Magazine/Columns/Lives :  29
+Top/News/U.S./U.S. States, Territories and Possessions/Montana :  29
+Top/Features/Home and Garden/Columns/Design Notebook :  29
+Top/News/World/Countries and Territories/Haiti :  29
+Top/Features/Arts/Music/Reviews/Jazz :  28
+Top/Features/Travel/Guides/Destinations/Europe/Portugal :  28
+Top/Features/Theater/Critic's Notebooks :  28
+Top/Features/Travel/Guides/Destinations/North America/United States/Wyoming :  28
+Top/Features/Travel/Guides/Destinations/North America/United States/West Virginia :  28
+Top/Features/Travel/Guides/Destinations/Europe/Serbia/Belgrade :  28
+Top/News/World/Countries and Territories/Montenegro :  28
+Top/News/Health/Diseases, Conditions, and Health Topics/Steroids :  28
+Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease :  28
+Top/Features/Travel/Guides/Destinations/Africa/Angola :  28
+Top/News/Health/Diseases, Conditions, and Health Topics/Death and Dying :  28
+Top/News/Sports/Pro Football/National Football League/Philadelphia Eagles :  28
+Top/News/World/Countries and Territories/Poland :  28
+Top/News/Health/Diseases, Conditions, and Health Topics/Deafness :  27
+Top/News/Sports/Pro Basketball/National Basketball Association/New Orleans Hornets :  27
+Top/News/Sports/Hockey/National Hockey League/Pittsburgh Penguins :  27
+Top/News/World/Countries and Territories/Ethiopia :  27
+Top/News/World/Countries and Territories/Nigeria :  27
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Buffalo :  26
+Top/Features/Magazine/Columns/Style :  26
+Top/Features/Travel/Guides/Destinations/North America/United States/Mississippi :  26
+Top/Features/Arts/Columns/Think Tank :  26
+Top/News/Sports/Baseball/Major League/San Diego Padres :  26
+Top/News/World/Countries and Territories/Romania :  26
+Top/Features/Travel/Guides/Destinations/Europe/Finland :  26
+Top/News/Health/Diseases, Conditions, and Health Topics/Stress (Human) :  26
+Top/News/Health/Diseases, Conditions, and Health Topics/Mental Retardation :  26
+Top/Features/Travel/Guides/Destinations/Europe/Croatia :  26
+Top/Features/Dining and Wine/Columns/By the Book :  26
+Top/Features/Travel/Columns/Choice Tables :  26
+Top/News/U.S./U.S. States, Territories and Possessions/Nevada :  26
+Top/Features/Travel/Columns/Frugal Traveler :  25
+Top/Features/Travel/Guides/Destinations/Asia/Japan/Tokyo :  25
+Top/Features/Movies/News and Features/Columns/Taking the Children :  25
+Top/News/World/Countries and Territories/Libya :  25
+Top/News/Health/Diseases, Conditions, and Health Topics/Teeth and Dentistry :  25
+Top/Features/Movies/Columns/Taking the Children :  25
+Top/Features/Travel/Guides/Destinations/North America/United States/Maryland/Baltimore :  25
+Top/Features/Travel/Guides/Destinations/North America/United States/Nevada/Las Vegas :  25
+Top/News/Health/Diseases, Conditions, and Health Topics/Smoking :  25
+Top/Features/Travel/Guides/Destinations/Asia/Sri Lanka :  25
+Top/News/Sports/Pro Football/National Football League/Indianapolis Colts :  25
+Top/Features/Travel/Guides/Destinations/Europe/Germany/Berlin :  25
+Top/Features/Style/Fashion and Style/T: Style Magazine :  25
+Top/Features/Travel/Guides/Destinations/North America/United States/North Dakota :  25
+Top/Features/Theater/News and Features/People/Stephen Sondheim :  24
+Top/News/Sports/Baseball/Major League/Kansas City Royals :  24
+Top/News/Health/Diseases, Conditions, and Health Topics/Pregnancy :  24
+Top/Features/Travel/Guides/Destinations/Europe/Montenegro :  24
+Top/News/World/Countries and Territories/Kenya :  24
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Albany :  24
+Top/News/Sports/Olympics 2004/Boxing :  24
+Top/News/Sports/Pro Football/National Football League/Buffalo Bills :  24
+Top/Features/Travel/Guides/Destinations/Africa/Rwanda :  24
+Top/News/U.S./U.S. States, Territories and Possessions/Delaware :  24
+Top/News/World/Countries and Territories/Denmark :  24
+Top/News/Sports/Pro Basketball/National Basketball Association/Orlando Magic :  24
+Top/News/World/Countries and Territories/East Timor :  24
+Top/Features/Books/Columns/Crime :  24
+Top/News/Sports/Olympics 2004/Soccer :  24
+Top/Features/Travel/Guides/Activities and Interests/Spas :  23
+Top/Features/Travel/Guides/Destinations/Africa/Kenya/Nairobi :  23
+Top/Features/Travel/Guides/Destinations/Central and South America/Guatemala :  23
+Top/News/U.S./U.S. States, Territories and Possessions/Minnesota :  23
+Top/News/Business/Columns/Portfolios Etc :  23
+Top/News/U.S./U.S. States, Territories and Possessions/Oklahoma :  23
+Top/Features/Theater/News and Features/Festivals/Next Wave Festival :  23
+Top/Features/Theater/News and Features/Festivals :  23
+Top/News/Health/Diseases, Conditions, and Health Topics/Psychology and Psychologists :  23
+Top/Features/Dining and Wine/Columns/Eating Well :  23
+Top/Features/Travel/Guides/Destinations/North America/United States/Kansas :  23
+Top/Features/Travel/Guides/Destinations/North America/United States/California/San Diego :  22
+Top/News/Health/Diseases, Conditions, and Health Topics/Pain :  22
+Top/Features/Travel/Guides/Destinations/Europe/Hungary :  22
+Top/Features/Travel/Guides/Destinations/Africa/Ivory Coast :  22
+Top/Features/Travel/Guides/Destinations/Central and South America/Panama :  22
+Top/News/World/Countries and Territories/Eritrea :  22
+Top/News/World/Countries and Territories/Norway :  22
+Top/News/Sports/Pro Basketball/National Basketball Association/Chicago Bulls :  22
+Top/News/Sports/Pro Football/National Football League/Minnesota Vikings :  22
+Top/Features/Travel/Guides/Destinations/Europe/Russia/Moscow :  22
+Top/News/World/Countries and Territories/Ecuador :  22
+Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Detroit :  22
+Top/News/Business/Small Business/Business Travel :  22
+Top/Features/Travel/Guides/Destinations/Africa/Morocco :  22
+Top/News/Health/Diseases, Conditions, and Health Topics/Dietary Supplements and Herbal Remedies :  22
+Top/News/Washington/Campaign 2004/States/Oregon :  22
+Top/News/World/Countries and Territories/Myanmar :  22
+Top/News/Business/Columns/The Boss :  22
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico/Vieques :  22
+Top/News/Washington/Campaign 2004/States/Georgia :  22
+Top/News/Sports/Pro Football/National Football League/Pittsburgh Steelers :  22
+Top/News/U.S./U.S. States, Territories and Possessions/Wyoming :  22
+Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes :  22
+Top/News/Health/Columns/Cases :  21
+Top/News/U.S./U.S. States, Territories and Possessions/Indiana :  21
+Top/News/Sports/Hockey/National Hockey League/Montreal Canadiens :  21
+Top/Classifieds/Real Estate/Locations/California :  21
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Dominican Republic :  21
+Top/News/Health/Diseases, Conditions, and Health Topics/Blindness :  21
+Top/News/Sports/Pro Basketball/National Basketball Association/Boston Celtics :  21
+Top/Features/Travel/Guides/Destinations/Asia/Malaysia :  21
+Top/News/U.S./U.S. States, Territories and Possessions/West Virginia :  21
+Top/Features/Travel/Guides/Destinations/North America/Canada/Quebec :  21
+Top/Features/Travel/Guides/Destinations/North America/United States/Utah/Salt Lake City :  21
+Top/News/Sports/Baseball/Major League/Minnesota Twins :  21
+Top/Features/Travel/Guides/Destinations/North America/United States/Idaho :  21
+Top/News/Health/Diseases, Conditions, and Health Topics/Mad Cow Disease (Bovine Spongiform Encephalopathy) :  21
+Top/News/Business/Small Business/Human Resources :  20
+Top/Features/Movies/News and Features/Box Office :  20
+Top/News/Business/Small Business/Management :  20
+Top/News/Health/Diseases, Conditions, and Health Topics/Allergies :  20
+Top/News/Health/Diseases, Conditions, and Health Topics/Depression :  20
+Top/News/Health/Diseases, Conditions, and Health Topics/Birth Control and Family Planning :  20
+Top/News/Health/Diseases, Conditions, and Health Topics/Hormones :  20
+Top/Features/Travel/Guides/Destinations/Africa/Tanzania/Dar es Salaam :  20
+Top/News/Business/Subprime Lending :  20
+Top/Features/Travel/Guides/Destinations/Africa/Mozambique :  20
+Top/News/Sports/Olympics 2004/Wrestling :  20
+Top/News/World/Countries and Territories/Angola :  20
+Top/News/U.S./U.S. States, Territories and Possessions/Mississippi :  20
+Top/Classifieds/Real Estate/Luxury and Vacations/Active Adult :  20
+Top/News/Sports/Hockey/National Hockey League/Buffalo Sabres :  20
+Top/News/World/Countries and Territories/Sri Lanka :  20
+Top/News/Business/Small Business/Careers :  20
+Top/News/Sports/Baseball/Major League/Milwaukee Brewers :  20
+Top/Classifieds/Real Estate/Locations/Florida :  20
+Top/News/World/Countries and Territories/Croatia :  20
+Top/News/Sports/Hockey/National Hockey League/Boston Bruins :  20
+Top/News/Sports/Pro Basketball/National Basketball Association/Atlanta Hawks :  19
+Top/News/Health/Diseases, Conditions, and Health Topics/Blood :  19
+Top/Features/Movies/News and Features/Obituaries :  19
+Top/Features/Travel/Guides/Destinations/Central and South America/El Salvador :  19
+Top/News/World/Countries and Territories/Singapore :  19
+Top/Features/Movies/News and Features/Copyright :  19
+Top/News/Health/Diseases, Conditions, and Health Topics/Antibiotics :  19
+Top/News/World/Countries and Territories/Ivory Coast :  19
+Top/Features/Travel/Guides/Destinations/North America/United States/Oregon/Portland :  19
+Top/News/Sports/Pro Football/National Football League/Chicago Bears :  19
+Top/News/Sports/Hockey/National Hockey League/Tampa Bay Lightning :  19
+Top/Features/Travel/Guides/Activities and Interests/Snorkeling and Diving :  19
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Antibiotics :  19
+Top/News/Washington/Campaign 2004/States/Wisconsin :  19
+Top/Classifieds/Real Estate/Locations/New York/New York City/Brooklyn :  18
+Top/Features/Travel/Guides/Destinations/Africa/Algeria :  18
+Top/News/World/Countries and Territories/Panama :  18
+Top/News/Sports/Pro Football/National Football League/San Francisco 49ers :  18
+Top/News/Sports/Hockey/National Hockey League/Edmonton Oilers :  18
+Top/News/U.S./Columns/Religion Journal :  18
+Top/News/Sports/Hockey/National Hockey League/Ottawa Senators :  18
+Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions :  18
+Top/News/World/Countries and Territories/Cambodia :  18
+Top/News/U.S./U.S. States, Territories and Possessions/Rhode Island :  18
+Top/Features/Travel/Guides/Destinations/Polar Regions :  18
+Top/News/Health/Diseases, Conditions, and Health Topics/Stroke :  18
+Top/News/U.S./Columns/Beliefs :  18
+Top/Features/Travel/Guides/Destinations/Asia/Japan/Okinawa and the Ryukyu Islands :  18
+Top/News/Washington/Columns/Beliefs :  18
+Top/News/Sports/Pro Basketball/National Basketball Association/Detroit Pistons :  18
+Top/News/Washington/Campaign 2004/States/Illinois :  18
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Catskills :  18
+Top/News/U.S./U.S. States, Territories and Possessions/Puerto Rico :  18
+Top/News/U.S./U.S. States, Territories and Possessions/North Dakota :  17
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/The Bahamas :  17
+Top/News/Sports/Pro Football/National Football League/Denver Broncos :  17
+Top/News/Health/Diseases, Conditions, and Health Topics/Alzheimer's :  17
+Top/News/Health/Diseases, Conditions, and Health Topics/Asthma :  17
+Top/News/World/Countries and Territories/Antarctic Regions :  17
+Top/News/Sports/Olympics 2004/Tennis :  17
+Top/Features/Travel/Guides/Destinations/Europe/Russia/St. Petersburg :  17
+Top/Features/Travel/Guides/Destinations/North America/United States/Missouri/St. Louis :  17
+Top/Features/Home and Garden/Columns/Turf :  17
+Top/Features/Travel/Guides/Destinations/North America/Canada/British Columbia :  17
+Top/News/U.S./U.S. States, Territories and Possessions/Idaho :  16
+Top/News/Sports/Pro Basketball/National Basketball Association/San Antonio Spurs :  16
+Top/News/Sports/Pro Football/National Football League/Green Bay Packers :  16
+Top/Features/Travel/Guides/Destinations/Middle East/Kuwait :  16
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Milan :  16
+Top/Features/Travel/Guides/Destinations/Central and South America/Bolivia :  16
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Mexico City :  16
+Top/News/Sports/Pro Football/National Football League/Oakland Raiders :  16
+Top/News/Sports/Pro Basketball/National Basketball Association/Utah Jazz :  16
+Top/News/World/Countries and Territories/Rwanda :  16
+Top/News/World/Countries and Territories/Belgium :  16
+Top/Features/Home and Garden/Columns/House Proud :  16
+Top/Features/Travel/Guides/Destinations/Asia/Bangladesh :  16
+Top/Features/Travel/Guides/Destinations/Europe/Czech Republic/Prague :  16
+Top/News/Sports/Pro Basketball/National Basketball Association/Minnesota Timberwolves :  16
+Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Princeton :  16
+Top/News/Sports/Hockey/National Hockey League/Washington Capitals :  16
+Top/Features/Travel/Guides/Destinations/Africa/Burundi :  16
+Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/Mystic and the Southeastern Coast :  16
+Top/News/Washington/Campaign 2004/States/Arizona :  16
+Top/Classifieds/Real Estate/Columns/Q and A :  15
+Top/News/Health/Diseases, Conditions, and Health Topics/Influenza :  15
+Top/News/World/Countries and Territories/Malaysia :  15
+Top/Features/Travel/Guides/Destinations/North America/United States/Alaska/Arctic National Wildlife Refuge :  15
+Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Pittsburgh :  15
+Top/Features/Travel/Guides/Destinations/Asia/Azerbaijan :  15
+Top/Features/Travel/Guides/Destinations/Central and South America/Brazil/Sao Paulo :  15
+Top/Classifieds/Automobiles/Topics/Automobile Design :  15
+Top/News/U.S./U.S. States, Territories and Possessions/Kansas :  15
+Top/Features/Travel/Guides/Destinations/Europe/Greece/Athens :  15
+Top/Features/Travel/Guides/Destinations/Africa/Sudan :  15
+Top/News/World/Countries and Territories/Kuwait :  15
+Top/Features/Travel/Guides/Destinations/Africa/Senegal :  15
+Top/News/Sports/Pro Football/National Football League/Cleveland Browns :  15
+Top/Features/Travel/Guides/Destinations/Europe/Turkey/Istanbul :  15
+Top/Features/Theater/News and Features/People/Eugene O'Neill :  15
+Top/News/Sports/Baseball/Major League/Pittsburgh Pirates :  15
+Top/Features/Travel/Guides/Activities and Interests/Kayaking and Canoeing :  15
+Top/Features/Travel/Guides/Destinations/Asia/China/Shanghai :  15
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Finger Lakes/Rochester :  15
+Top/News/Washington/Campaign 2004/States/Tennessee :  14
+Top/Features/Travel/Guides/Destinations/North America/Canada/Ontario :  14
+Top/News/Technology/David Pogue :  14
+Top/Features/Travel/Guides/Destinations/Europe/Slovakia :  14
+Top/News/Sports/Pro Basketball/National Basketball Association/Dallas Mavericks :  14
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Venice :  14
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Hudson Valley :  14
+Top/News/Washington/Campaign 2004/States/New Mexico :  14
+Top/News/Sports/Hockey/National Hockey League/Colorado Avalanche :  14
+Top/Features/Travel/Guides/Destinations/Central and South America/Costa Rica :  14
+Top/News/World/Countries and Territories/Guatemala :  14
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Everglades National Park :  14
+Top/News/Sports/Pro Basketball/National Basketball Association/Phoenix Suns :  14
+Top/Features/Travel/Guides/Destinations/Asia/Kazakhstan :  14
+Top/News/Science/Columns/Essay :  14
+Top/News/Sports/Pro Basketball/National Basketball Association/Sacramento Kings :  14
+Top/News/Health/Diseases, Conditions, and Health Topics/Estrogen :  14
+Top/News/Health/Diseases, Conditions, and Health Topics/Viruses :  14
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Finger Lakes/Syracuse :  13
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria :  13
+Top/News/Sports/Olympics 2004/Baseball :  13
+Top/News/Sports/Pro Football/National Football League/New Orleans Saints :  13
+Top/News/Health/Diseases, Conditions, and Health Topics/Colon Cancer :  13
+Top/News/U.S./U.S. States, Territories and Possessions/Hawaii :  13
+Top/News/World/Countries and Territories/Portugal :  13
+Top/News/Sports/Hockey/National Hockey League/Atlanta Thrashers :  13
+Top/News/Health/Diseases, Conditions, and Health Topics/Ears and Hearing :  13
+Top/News/Washington/Campaign 2004/States/Kentucky :  13
+Top/Features/Arts/Columns/Shelf Life :  13
+Top/News/Sports/Hockey/National Hockey League/Carolina Hurricanes :  13
+Top/Features/Travel/Guides/Destinations/Europe/Russia/Siberia :  13
+Top/Features/Travel/Guides/Destinations/Europe/Georgia (Georgian Republic) :  13
+Top/News/Sports/Pro Basketball/National Basketball Association/Los Angeles Clippers :  13
+Top/News/World/Countries and Territories/Algeria :  13
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Cape Cod and the Islands :  13
+Top/News/Washington/Campaign 2004/States/Arkansas :  12
+Top/News/Business/Columns/Midstream :  12
+Top/News/Sports/Pro Basketball/National Basketball Association/Milwaukee Bucks :  12
+Top/Features/Books/Columns/Writers on Writing :  12
+Top/Features/Arts/Columns/Connections :  12
+Top/News/Business/Columns/The Right Thing :  12
+Top/News/Sports/Pro Football/National Football League/Arizona Cardinals :  12
+Top/News/Business/Columns/Seniority :  12
+Top/News/Health/Diseases, Conditions, and Health Topics/Multiple Births :  12
+Top/News/Washington/Campaign 2004/States/West Virginia :  12
+Top/News/Sports/Hockey/National Hockey League/Los Angeles Kings :  12
+Top/News/Washington/Campaign 2004/States/Maine :  12
+Top/News/Sports/Hockey/National Hockey League/San Jose Sharks :  12
+Top/News/Sports/Olympics 2004/Cycling :  12
+Top/News/Sports/Hockey/National Hockey League :  12
+Top/News/Business/Columns/Preludes :  12
+Top/News/Health/Diseases, Conditions, and Health Topics/Vitamins :  12
+Top/News/Technology/Columns/Backslash :  12
+Top/News/Business/Columns/On the Contrary :  12
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas/Austin :  12
+Top/News/Business/Columns/Off the Shelf :  12
+Top/News/Washington/Campaign 2004/States/Minnesota :  12
+Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin/Milwaukee :  12
+Top/News/Health/Diseases, Conditions, and Health Topics/Blood Pressure :  12
+Top/News/Health/Diseases, Conditions, and Health Topics/Infertility :  12
+Top/News/Health/Diseases, Conditions, and Health Topics/Birth Defects :  11
+Top/News/Health/Diseases, Conditions, and Health Topics/Lyme Disease :  11
+Top/News/Science/Columns/Scientist at Work :  11
+Top/News/Sports/Hockey/National Hockey League/Detroit Red Wings :  11
+Top/News/World/Countries and Territories/Senegal :  11
+Top/Features/Travel/Guides/Destinations/Europe/Cyprus :  11
+Top/News/World/Countries and Territories/El Salvador :  11
+Top/Features/Travel/Guides/Destinations/Europe/Iceland :  11
+Top/News/Sports/Hockey/National Hockey League/Vancouver Canucks :  11
+Top/Features/Theater/News and Features/Companies and Organizations/Roundabout Theater Co :  11
+Top/Features/Movies/News and Features/Film Festivals/Sundance Film Festival :  11
+Top/News/Sports/Olympics 2004/Softball :  11
+Top/News/Health/Diseases, Conditions, and Health Topics/Stem Cells :  11
+Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Denver :  11
+Top/News/Health/Diseases, Conditions, and Health Topics/Tuberculosis :  11
+Top/News/World/Countries and Territories/Finland :  11
+Top/Features/Theater/News and Features/Companies and Organizations/Manhattan Theater Club :  11
+Top/News/Health/Columns/Books on Health :  11
+Top/News/World/Countries and Territories/Morocco :  11
+Top/News/Health/Diseases, Conditions, and Health Topics/Sleep :  11
+Top/Features/Travel/Guides/Destinations/Europe/Belarus :  11
+Top/Features/Theater/News and Features/Companies and Organizations/Joseph Papp Public Theater :  11
+Top/News/Washington/Campaign 2004/States/Vermont :  11
+Top/Features/Travel/Guides/Destinations/Europe/France/Provence and the French Riviera :  11
+Top/News/Business/Columns/On the Job :  11
+Top/News/Science/Columns/Books on Science and Health :  11
+Top/Features/Travel/Guides/Destinations/Asia/Armenia :  11
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Jamaica :  11
+Top/News/Health/Diseases, Conditions, and Health Topics/Implants :  11
+Top/News/Washington/Campaign 2004/States/Nebraska :  11
+Top/Classifieds/Real Estate/Locations/California/Bay Area :  11
+Top/Features/Movies/News and Features/Film Festivals/Cannes International Film Festival :  11
+Top/News/World/Countries and Territories/Mozambique :  11
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Palm Beach :  11
+Top/News/World/Countries and Territories/Sudan :  11
+Top/News/Washington/Campaign 2004/States/North Carolina :  11
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas/Dallas :  10
+Top/Features/Theater/News and Features/People/Arthur Miller :  10
+Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee/Nashville :  10
+Top/News/Washington/Campaign 2004/Candidates/Al Sharpton :  10
+Top/News/Health/Diseases, Conditions, and Health Topics/Radiation :  10
+Top/Features/Travel/Guides/Destinations/Central and South America/Brazil/Rio de Janeiro :  10
+Top/News/Health/Diseases, Conditions, and Health Topics/Twins :  10
+Top/News/World/Countries and Territories/Hungary :  10
+Top/News/Sports/College Basketball :  10
+Top/Features/Travel/Guides/Destinations/Africa/Namibia :  10
+Top/Features/Travel/Guides/Destinations/North America/United States/South Carolina/Charleston :  10
+Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee/Memphis :  10
+Top/News/Sports/Olympics 2004/Sailing :  10
+Top/Features/Travel/Guides/Destinations/North America/Canada/Quebec/Montreal :  10
+Top/News/Sports/Olympics 2004/Volleyball :  10
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Tallahassee :  10
+Top/News/Sports/Baseball/Major League :  10
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Madrid :  10
+Top/Features/Travel/Guides/Destinations/Africa/Liberia :  10
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Sicily :  10
+Top/News/Health/Diseases, Conditions, and Health Topics/Attention Deficit Hyperactivity Disorder :  10
+Top/Features/Travel/Guides/Destinations/Central and South America/Peru/Amazon Basin :  10
+Top/News/Sports/Hockey/National Hockey League/Anaheim Ducks :  10
+Top/News/U.S./U.S. States, Territories and Possessions/South Dakota :  10
+Top/Features/Travel/Guides/Destinations/North America/United States/South Dakota :  10
+Top/News/World/Countries and Territories/Azerbaijan :  10
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Bermuda :  9
+Top/News/Science/Columns/Conversations :  9
+Top/News/Health/Diseases, Conditions, and Health Topics/Parkinson's Disease :  9
+Top/Features/Movies/News and Features/Studios/Miramax :  9
+Top/News/Health/Diseases, Conditions, and Health Topics/Menopause :  9
+Top/Features/Travel/Guides/Destinations/Asia/South Korea/Seoul :  9
+Top/News/Health/Diseases, Conditions, and Health Topics/Arthritis and Rheumatism :  9
+Top/Features/Travel/Guides/Destinations/Central and South America/Guyana :  9
+Top/News/Health/Diseases, Conditions, and Health Topics/Venereal Diseases :  9
+Top/News/Washington/Campaign 2004/States/Alabama :  9
+Top/Features/Travel/Guides/Destinations/Central and South America/Nicaragua :  9
+Top/News/World/Countries and Territories/Tajikistan :  9
+Top/News/World/Countries and Territories/Kazakhstan :  9
+Top/Features/Travel/Guides/Destinations/Africa/Somalia :  9
+Top/News/Washington/Campaign 2004/States/Utah :  9
+Top/News/Sports/Pro Football/National Football League/Kansas City Chiefs :  9
+Top/News/Washington/Campaign 2004/States/Delaware :  9
+Top/News/World/Countries and Territories/Belarus :  9
+Top/Features/Travel/Guides/Destinations/North America/Canada/Alberta :  9
+Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota/Minneapolis and St. Paul :  9
+Top/Features/Travel/Guides/Destinations/North America/Canada/Ontario/Toronto :  9
+Top/News/World/Countries and Territories/Georgia :  9
+Top/Features/Travel/Guides/Destinations/North America/United States/Ohio/Cleveland :  9
+Top/Features/Theater/News and Features/People/August Wilson :  9
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island/Fire Island :  9
+Top/Features/Travel/Guides/Destinations/Middle East/Lebanon/Beirut :  9
+Top/News/Health/Columns/Essay :  9
+Top/Features/Travel/Guides/Destinations/Europe/Germany/Hanover :  9
+Top/News/World/Countries and Territories/Bangladesh :  9
+Top/Features/Travel/Guides/Destinations/Europe/Netherlands/Amsterdam :  9
+Top/Features/Theater/News and Features/People/Al Hirschfeld :  9
+Top/News/Health/Diseases, Conditions, and Health Topics/Obesity :  9
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Tampa :  9
+Top/Features/Travel/Guides/Activities and Interests/Surfing :  9
+Top/Classifieds/Real Estate/Luxury and Vacations/Golf :  9
+Top/Features/Travel/Guides/Destinations/Europe/Austria/Vienna :  9
+Top/News/World/Countries and Territories/Bolivia :  9
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Oakland :  9
+Top/Features/Travel/Guides/Destinations/Europe/Albania :  8
+Top/News/Business/Columns/On the Road :  8
+Top/Features/Travel/Guides/Destinations/North America/United States/Alabama/Birmingham :  8
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Fiji :  8
+Top/Features/Travel/Guides/Destinations/Europe/Bulgaria :  8
+Top/Features/Theater/News and Features/Festivals/Lincoln Center Festival :  8
+Top/Features/Travel/Guides/Destinations/Europe/Germany/The Rhineland :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Pain-Relieving Drugs :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Health Clubs :  8
+Top/Features/Travel/Guides/Destinations/North America/Canada/Newfoundland :  8
+Top/Features/Travel/Guides/Destinations/North America/United States/Indiana/Indianapolis :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Cholesterol :  8
+Top/News/Sports/Pro Basketball/National Basketball Association/Cleveland Cavaliers :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Schizophrenia :  8
+Top/Features/Travel/Guides/Destinations/Africa/Chad :  8
+Top/Features/Travel/Guides/Destinations/North America/United States/Missouri/Kansas City :  8
+Top/Features/Travel/Guides/Destinations/Africa/Zambia :  8
+Top/News/Sports/Olympics 2004/Weight Lifting :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Pain-Relieving Drugs :  8
+Top/Features/Theater/News and Features/People/Edward Albee :  8
+Top/Features/Books/Columns/Science Fiction :  8
+Top/Features/Travel/Guides/Destinations/Europe/Britain/Wales :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Bone Marrow :  8
+Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Boulder :  8
+Top/News/Sports/Columns/Mike Freeman :  8
+Top/Features/Travel/Guides/Destinations/Asia/Indonesia/Jakarta :  8
+Top/Features/Travel/Guides/Destinations/Asia/Philippines/Manila :  8
+Top/News/Sports/Olympics 2004/Triathlon :  8
+Top/News/Sports/Pro Basketball/National Basketball Association/Golden State Warriors :  8
+Top/News/Washington/Campaign 2004/States/North Dakota :  8
+Top/News/Washington/Campaign 2004/States/Montana :  8
+Top/News/Education/Columns/Lessons :  8
+Top/News/Sports/Pro Football/National Football League/Atlanta Falcons :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Lung Cancer :  8
+Top/News/World/Countries and Territories/Dominican Republic :  8
+Top/Features/Travel/Guides/Destinations/North America/United States/Oklahoma/Oklahoma City :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Condoms :  8
+Top/News/Technology/Columns/Basics :  8
+Top/News/Health/Diseases, Conditions, and Health Topics/Brain Cancer :  8
+Top/Features/Travel/Guides/Destinations/Europe/Netherlands/The Hague :  7
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/St. Vincent and the Grenadines :  7
+Top/Features/Travel/Guides/Destinations/Asia/Mongolia :  7
+Top/News/Health/Diseases, Conditions, and Health Topics/Creutzfeldt-Jakob Disease :  7
+Top/News/Washington/Campaign 2004/States/Colorado :  7
+Top/News/World/Countries and Territories/Barbados :  7
+Top/News/Health/Diseases, Conditions, and Health Topics/Dieting :  7
+Top/News/Sports/Hockey/National Hockey League/Columbus Blue Jackets :  7
+Top/Features/Travel/Guides/Destinations/North America/Greenland :  7
+Top/Features/Travel/Guides/Destinations/Asia/Kyrgyzstan :  7
+Top/Classifieds/Real Estate/Luxury and Vacations/Vacation :  7
+Top/News/World/Countries and Territories/Zambia :  7
+Top/News/World/Countries and Territories/Liberia :  7
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Viagra (Drug) :  7
+Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina/Charlotte :  7
+Top/News/Washington/Campaign 2004/States/Massachusetts :  7
+Top/Features/Travel/Guides/Destinations/Central and South America/Argentina/Buenos Aires :  7
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island/North Fork :  7
+Top/News/Washington/Campaign 2004/Candidates/Richard A Gephardt :  7
+Top/News/World/Countries and Territories/Costa Rica :  7
+Top/Features/Travel/Guides/Destinations/Asia/Uzbekistan :  7
+Top/Features/Travel/Guides/Destinations/Europe/Germany/The Rhineland/Dusseldorf :  7
+Top/Classifieds/Real Estate/Locations/New York/Long Island/Hamptons :  7
+Top/News/Health/Diseases, Conditions, and Health Topics/Bulimia :  7
+Top/News/Health/Diseases, Conditions, and Health Topics/Magnetic Resonance Imagers :  7
+Top/Features/Travel/Guides/Destinations/Africa/Mali :  7
+Top/Features/Travel/Guides/Destinations/North America/United States/California/San Jose :  7
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Prozac (Drug) :  7
+Top/News/Washington/Campaign 2004/States/Alaska :  7
+Top/News/Sports/Pro Basketball/National Basketball Association/Houston Rockets :  7
+Top/News/Sports/Hockey/National Hockey League/Nashville Predators :  7
+Top/News/World/Countries and Territories/Greenland :  7
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Cape Cod and the Islands/Martha's Vineyard :  7
+Top/News/World/Countries and Territories/Somalia :  7
+Top/Features/Travel/Guides/Destinations/Central and South America/Honduras :  7
+Top/News/World/Countries and Territories/Uzbekistan :  7
+Top/News/Health/Diseases, Conditions, and Health Topics/Autism :  7
+Top/Features/Travel/Guides/Destinations/Middle East/United Arab Emirates :  7
+Top/News/World/Countries and Territories/Burundi :  7
+Top/Features/Theater/News and Features/People/Tom Stoppard :  7
+Top/News/New York and Region/Columns/Tunnel Vision :  7
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Barbados :  7
+Top/News/Sports/Hockey/National Hockey League/Phoenix Coyotes :  7
+Top/Classifieds/Real Estate/Locations/New York/New York City/Queens :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Impotence :  6
+Top/Features/Theater/News and Features/People/Michael Frayn :  6
+Top/Features/Travel/Guides/Destinations/North America/Canada/Yukon, the Northwest Territories and Nunavut :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Cambridge :  6
+Top/News/Washington/Campaign 2004/States/Indiana :  6
+Top/Features/Travel/Guides/Destinations/Asia/Vietnam/Ho Chi Minh City :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Cape May :  6
+Top/Features/Travel/Guides/Destinations/North America/Canada/British Columbia/Vancouver :  6
+Top/Features/Travel/Guides/Destinations/Central and South America/Ecuador/Galapagos Islands :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Eating Disorders :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/Ohio/Cincinnati :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Fort Lauderdale :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Skin Cancer :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/Rhode Island/Providence :  6
+Top/News/Sports/Pro Football/National Football League/Carolina Panthers :  6
+Top/Features/Movies/News and Features/Film Festivals/New York Film Festival :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Multiple Sclerosis :  6
+Top/News/Sports/Pro Basketball/National Basketball Association/Denver Nuggets :  6
+Top/Features/Travel/Guides/Destinations/Middle East/Bahrain :  6
+Top/News/World/Countries and Territories/Bulgaria :  6
+Top/Features/Travel/Guides/Destinations/Europe/France/Rhone Valley/Lyon :  6
+Top/News/Washington/Campaign 2004/States/Louisiana :  6
+Top/Features/Travel/Guides/Destinations/Europe/Belgium/Brussels :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Hepatitis :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Artificial Insemination :  6
+Top/News/World/Countries and Territories/Mali :  6
+Top/Classifieds/Real Estate/Locations/New York/Putnam :  6
+Top/Features/Theater/News and Features/Companies and Organizations/Shubert Organization :  6
+Top/News/Sports/Pro Football/National Football League/Seattle Seahawks :  6
+Top/Features/Movies/News and Features/Organizations/Motion Picture Association of America :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Epidemics :  6
+Top/Features/Travel/Guides/Destinations/Europe/Ireland/Dublin :  6
+Top/News/World/Countries and Territories/Slovakia :  6
+Top/News/Sports/Hockey/National Hockey League/Calgary Flames :  6
+Top/Features/Travel/Guides/Destinations/Asia/Laos :  6
+Top/Features/Travel/Guides/Destinations/Europe/Lithuania :  6
+Top/News/Health/Columns/The Doctor's World :  6
+Top/Features/Movies/News and Features/Film Festivals/Toronto International Film Festival :  6
+Top/News/World/Countries and Territories/Tanzania :  6
+Top/Features/Travel/Guides/Destinations/Africa/Egypt/Cairo :  6
+Top/Features/Travel/Guides/Destinations/Asia/Thailand/Bangkok :  6
+Top/Features/Travel/Guides/Destinations/Europe/France/Normandy :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Yosemite National Park :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Finger Lakes/Ithaca :  6
+Top/Features/Travel/Guides/Destinations/Africa/Botswana :  6
+Top/Features/Travel/Guides/Destinations/Europe/France/Rhone Valley :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/New Mexico/Albuquerque :  6
+Top/News/World/Countries and Territories/Guyana :  6
+Top/News/Sports/Olympics 2004/Diving :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Anorexia Nervosa :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/Nevada/Reno :  6
+Top/Features/Travel/Guides/Destinations/Africa/Ghana :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Adirondacks :  6
+Top/News/World/Countries and Territories/Nicaragua :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Transsexuals :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Eyeglasses :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/Wyoming/Yellowstone National Park :  6
+Top/Features/Travel/Guides/Destinations/Europe/Germany/Bavaria :  6
+Top/News/World/Countries and Territories/San Marino :  6
+Top/News/Health/Diseases, Conditions, and Health Topics/Anemia :  6
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas/San Antonio :  6
+Top/News/World/Countries and Territories/Cyprus :  6
+Top/News/Washington/Campaign 2004/States/Mississippi :  5
+Top/Features/Travel/Guides/Destinations/Europe/France/Alsace-Lorraine :  5
+Top/Features/Theater/News and Features/People/Oscar Wilde :  5
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia/Melbourne :  5
+Top/Features/Travel/Guides/Destinations/Europe/France/Bordeaux :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Salmonella (Bacteria) :  5
+Top/Features/Travel/Guides/Destinations/Africa/South Africa/Cape Town :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Meningitis :  5
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Berkshires :  5
+Top/News/Sports/Hockey/National Hockey League/Minnesota Wild :  5
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Baja California :  5
+Top/News/World/Countries and Territories/Namibia :  5
+Top/Features/Theater/News and Features/Companies and Organizations/Westport Country Playhouse :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Antidepressants :  5
+Top/Features/Movies/News and Features/Organizations/Writers Guild of America :  5
+Top/Features/Travel/Guides/Destinations/Asia/India/New Delhi :  5
+Top/Features/Movies/News and Features/Organizations/Screen Actors Guild :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Digestive Tract :  5
+Top/News/World/Countries and Territories/Lithuania :  5
+Top/News/World/Countries and Territories/Armenia :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Hemophilia :  5
+Top/Features/Travel/Guides/Destinations/Europe/France/Versailles :  5
+Top/Features/Travel/Guides/Activities and Interests/Bed and Breakfasts :  5
+Top/Features/Theater/News and Features/People/Nathan Lane :  5
+Top/Features/Travel/Guides/Destinations/Europe/Slovenia :  5
+Top/News/World/Countries and Territories/Iceland :  5
+Top/Features/Movies/News and Features/Studios/Warner Brothers :  5
+Top/Features/Travel/Guides/Destinations/Asia/Vietnam/Hanoi :  5
+Top/Features/Dining and Wine/Columns/The Chef :  5
+Top/News/Sports/Pro Football/National Football League/Cincinnati Bengals :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Leukemia :  5
+Top/Features/Movies/News and Features/Talent Agencies/William Morris Agency :  5
+Top/Features/Travel/Guides/Destinations/Europe/Switzerland/Geneva :  5
+Top/Features/Travel/Guides/Destinations/Europe/Liechtenstein :  5
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Santa Monica :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Cerebral Palsy :  5
+Top/Features/Travel/Guides/Destinations/Africa/Tunisia :  5
+Top/News/World/Countries and Territories/Jamaica :  5
+Top/News/World/Countries and Territories/Kyrgyzstan :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Malaria :  5
+Top/Features/Travel/Guides/Destinations/Europe/Poland/Auschwitz :  5
+Top/Features/Theater/News and Features/People/Sam Mendes :  5
+Top/Features/Arts/Music/Reviews/Cabaret :  5
+Top/News/Washington/Campaign 2004/States/Maryland :  5
+Top/Features/Travel/Guides/Destinations/Europe/Germany/Bavaria/Munich :  5
+Top/Features/Theater/News and Features/People/Julie Taymor :  5
+Top/Features/Travel/Guides/Destinations/Europe/Britain/Northern Ireland/Belfast :  5
+Top/Features/Theater/News and Features/Companies and Organizations/Actors Equity Association :  5
+Top/News/Washington/Campaign 2004/States/Rhode Island :  5
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Orlando :  5
+Top/Features/Movies/News and Features/Studios/Dreamworks SKG :  5
+Top/Features/Travel/Guides/Destinations/Europe/France/Provence and the French Riviera/Avignon :  5
+Top/Features/Travel/Guides/Destinations/North America/United States/Virginia/Williamsburg :  5
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island/Shelter Island :  5
+Top/News/World/Countries and Territories/Bermuda :  5
+Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/Litchfield County :  5
+Top/News/Health/Diseases, Conditions, and Health Topics/Plastic Surgery :  5
+Top/Features/Travel/Guides/Destinations/Europe/Finland/Helsinki :  4
+Top/Classifieds/Real Estate/Luxury and Vacations/Wine Country :  4
+Top/News/Sports/Olympics 2004/Fencing :  4
+Top/Features/Travel/Guides/Destinations/Europe/Iceland/Reykjavik :  4
+Top/Features/Theater/News and Features/People/Neil Labute :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Sarasota :  4
+Top/Features/Travel/Guides/Destinations/Europe/Britain/England/Lake District :  4
+Top/Classifieds/Real Estate/Locations/New York/New York City/Bronx :  4
+Top/News/Sports/Olympics 2004/Taekwondo :  4
+Top/Features/Theater/News and Features/Companies and Organizations/Royal National Theater :  4
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Virgin Islands :  4
+Top/Features/Travel/Guides/Destinations/Central and South America/Chile/Santiago :  4
+Top/Features/Travel/Guides/Destinations/Asia/India/Bangalore :  4
+Top/Features/Theater/News and Features/People/Harold Pinter :  4
+Top/Features/Travel/Guides/Destinations/Europe/France/Brittany :  4
+Top/Features/Travel/Guides/Destinations/Asia/India/Mumbai :  4
+Top/Features/Travel/Guides/Destinations/Asia/Japan/Yokohama :  4
+Top/News/Sports/College Football :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas/El Paso :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina/Asheville :  4
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/St. Vincent and the Grenadines/Palm Island :  4
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago :  4
+Top/Features/Travel/Guides/Destinations/Middle East/Israel/Tel Aviv :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Saratoga Springs :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Tucson :  4
+Top/News/Washington/Campaign 2004/States/Oklahoma :  4
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria/Florence :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Defibrillators :  4
+Top/News/Sports/Pro Football/National Football League/San Diego Chargers :  4
+Top/Features/Theater/News and Features/People/Anton Chekhov :  4
+Top/News/Washington/Campaign 2004/Candidates/John F Kerry :  4
+Top/News/Sports/Hockey/National Hockey League/Chicago Blackhawks :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Vail and Beaver Creek :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin/Madison :  4
+Top/Features/Travel/Guides/Destinations/Africa/Cameroon :  4
+Top/Features/Home and Garden/Columns/Trade Secrets :  4
+Top/Features/Theater/News and Features/People/John Guare :  4
+Top/News/Sports/Olympics 2004/Canoeing and Kayaking :  4
+Top/Features/Travel/Guides/Destinations/Europe/Monaco :  4
+Top/Features/Travel/Columns/Cyberscout :  4
+Top/Features/Travel/Guides/Destinations/Europe/Estonia :  4
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Baja California/Tijuana :  4
+Top/Features/Travel/Guides/Destinations/Central and South America/Peru/Lima :  4
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Bologna :  4
+Top/News/Sports/Olympics 2004/Rowing :  4
+Top/Features/Theater/News and Features/People/A R Gurney :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Ritalin (Drug) :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Methamphetamines :  4
+Top/Features/Travel/Guides/Destinations/Central and South America/Suriname :  4
+Top/Features/Travel/Guides/Destinations/Asia/Brunei :  4
+Top/News/Washington/Campaign 2004/States/Kansas :  4
+Top/Features/Travel/Guides/Destinations/Europe/Luxembourg :  4
+Top/News/Washington/Campaign 2004/States/Wyoming :  4
+Top/News/Washington/Campaign 2004/Issues/Civil Rights :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Poliomyelitis :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/Ohio/Columbus :  4
+Top/Features/Movies/News and Features/Studios/Universal :  4
+Top/Features/Theater/News and Features/People/Bertolt Brecht :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Dyslexia :  4
+Top/News/World/Countries and Territories/United Arab Emirates :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Osteoporosis :  4
+Top/Features/Movies/News and Features/Talent Agencies/Artists Management Group :  4
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Turks and Caicos :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Mammography :  4
+Top/Features/Travel/Guides/Destinations/Central and South America/Colombia/Bogota :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Testicular Cancer :  4
+Top/Features/Travel/Guides/Destinations/North America/United States/Kentucky/Louisville :  4
+Top/Features/Travel/Guides/Destinations/Europe/France/Burgundy :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Headaches :  4
+Top/News/World/Countries and Territories/Honduras :  4
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Cuba/Havana :  4
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Naples :  4
+Top/News/World/Countries and Territories/Liechtenstein :  4
+Top/News/Sports/Olympics 2004/Judo :  4
+Top/News/Washington/Campaign 2004/States/Idaho :  4
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/St. Vincent and the Grenadines/St. Vincent :  4
+Top/News/Health/Diseases, Conditions, and Health Topics/Chemotherapy :  3
+Top/News/World/Countries and Territories/Slovenia :  3
+Top/Features/Movies/News and Features/Awards/Golden Globes :  3
+Top/News/World/Countries and Territories/Albania :  3
+Top/Features/Travel/Guides/Destinations/Europe/Britain/Scotland/Glasgow :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Virginia/Virginia Beach :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Cape Cod and the Islands/Nantucket :  3
+Top/News/World/Countries and Territories/Chad :  3
+Top/Features/Theater/News and Features/People/Bernadette Peters :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Sudden Infant Death Syndrome :  3
+Top/News/World/Countries and Territories/Djibouti :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Anxiety :  3
+Top/Features/Travel/Guides/Destinations/Asia/Nepal :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Height (Stature) :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina/Durham :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Amniocentesis :  3
+Top/Features/Travel/Health :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Nausea :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Jacksonville :  3
+Top/News/Washington/Campaign 2004/Candidates/Howard Dean :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Vermont/Burlington :  3
+Top/Features/Travel/Guides/Destinations/Europe/France/Provence and the French Riviera/Nice :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Berkeley :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Rhode Island/Newport :  3
+Top/Features/Travel/Guides/Destinations/Europe/Poland/Krakow :  3
+Top/Features/Travel/Guides/Destinations/Asia/Bhutan :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Grand Rapids :  3
+Top/Features/Travel/Guides/Destinations/Europe/Latvia :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island/North Shore :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Santa Cruz :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Insulin :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Palm Springs :  3
+Top/Features/Theater/News and Features/People/David Mamet :  3
+Top/News/Sports/Olympics 2004/Water Polo :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Paralysis :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Virginia/Alexandria :  3
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago/Tobago :  3
+Top/Features/Theater/News and Features/Companies and Organizations/Signature Theater Co :  3
+Top/Features/Theater/News and Features/Companies and Organizations/American Federation of Musicians :  3
+Top/News/Sports/Olympics 2004/Equestrian :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Phoenix :  3
+Top/News/World/Countries and Territories/Congo :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Delaware/Wilmington :  3
+Top/Features/Theater/News and Features/Companies and Organizations/Playwrights Horizons :  3
+Top/Features/Movies/News and Features/Organizations :  3
+Top/News/Sports/Olympics 2004/Archery :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Pneumonia :  3
+Top/Features/Travel/Guides/Destinations/Middle East/Qatar :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Daytona Beach :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Epilepsy :  3
+Top/Features/Travel/Guides/Destinations/Europe/Denmark/Copenhagen :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Measles :  3
+Top/Features/Travel/Guides/Destinations/Europe/Britain/England/Manchester :  3
+Top/Features/Travel/Guides/Destinations/Europe/Hungary/Budapest :  3
+Top/Features/Theater/News and Features/Festivals/Encores! Great American Musicals in Concert :  3
+Top/News/Washington/Campaign 2004/States/Nevada :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Ebola Virus :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee/Knoxville :  3
+Top/Features/Travel/Guides/Destinations/Africa/Equatorial Guinea :  3
+Top/News/World/Countries and Territories/Fiji :  3
+Top/Features/Theater/News and Features/Festivals/Williamstown Theater Festival :  3
+Top/Features/Travel/Guides/Destinations/Africa/South Africa/Johannesburg :  3
+Top/Features/Travel/Guides/Destinations/Europe/France/Corsica :  3
+Top/Features/Travel/Guides/Destinations/Central and South America/Paraguay :  3
+Top/Features/Movies/News and Features/Talent Agencies :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Idaho/Boise :  3
+Top/Features/Travel/Guides/Destinations/Asia/China/Macao :  3
+Top/News/World/Countries and Territories/Macedonia :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Grand Canyon National Park :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Angioplasty :  3
+Top/Features/Travel/Guides/Destinations/Africa/Djibouti :  3
+Top/Features/Theater/News and Features/People/Terrence McNally :  3
+Top/News/Sports/Olympics 2004/Shooting :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Tumors :  3
+Top/News/World/Countries and Territories/Botswana :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Aspen :  3
+Top/Features/Movies/News and Features/Film Festivals/Hamptons International Film Festival :  3
+Top/Features/Movies/News and Features/Studios/Sony Pictures Entertainment :  3
+Top/Features/Movies/News and Features/Talent Agencies/Creative Artists Agency :  3
+Top/Features/Travel/Guides/Destinations/Europe/Macedonia :  3
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Guanajuato :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Fen-Phen (Drug Combination) :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Long Beach :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Hospice Care :  3
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago/Trinidad :  3
+Top/Features/Theater/News and Features/People/Samuel Beckett :  3
+Top/Features/Theater/News and Features/People/Noel Coward :  3
+Top/News/Sports/Olympics 2004/Table Tennis :  3
+Top/Features/Travel/Guides/Destinations/Europe/Poland/Warsaw :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Nursing of Infants :  3
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Sicily/Palermo :  3
+Top/News/World/Countries and Territories/Ghana :  3
+Top/News/World/Countries and Territories/Laos :  3
+Top/Features/Travel/Guides/Destinations/Africa/Senegal/Dakar :  3
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Genoa :  3
+Top/Features/Travel/Guides/Destinations/Asia/Japan/Hiroshima :  3
+Top/News/Health/Diseases, Conditions, and Health Topics/Anesthesia and Anesthetics :  3
+Top/Features/Travel/Guides/Destinations/North America/United States/Maine/Portland :  3
+Top/Features/Travel/Guides/Destinations/Europe/Sweden/Stockholm :  3
+Top/Features/Travel/Guides/Destinations/Asia/Taiwan/Taipei :  3
+Top/Features/Theater/News and Features/Festivals/New York International Fringe Festival :  3
+Top/Features/Travel/Guides/Destinations/Africa/Congo :  3
+Top/Features/Theater/News and Features/People/Moliere :  3
+Top/News/World/Countries and Territories/Equatorial Guinea :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Gonorrhea :  2
+Top/Features/Travel/Guides/Destinations/North America/Canada/Quebec/Quebec City :  2
+Top/Features/Travel/Guides/Destinations/Africa/Gambia :  2
+Top/Features/Travel/Guides/Destinations/Europe/Malta :  2
+Top/Features/Travel/Guides/Destinations/Europe/France/Alsace-Lorraine/Nancy :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Teenage Pregnancy :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Physical Therapy :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Hawaii/Maui :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Respiratory Diseases :  2
+Top/Features/Theater/News and Features/People/Peter Nichols :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Celexa (Drug) :  2
+Top/News/Sports/Hockey/National Hockey League/St. Louis Blues :  2
+Top/News/World/Countries and Territories/Belize :  2
+Top/Features/Arts/Columns/High Notes :  2
+Top/Features/Travel/Guides/Destinations/Europe/Germany/Frankfurt :  2
+Top/Features/Travel/Guides/Destinations/Asia/Japan/Fukuoka :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Napa Valley :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Florida Keys :  2
+Top/News/Sports/Olympics 2004/Field Hockey :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Cox-2 Inhibitors (Drugs) :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Georgia/Savannah :  2
+Top/Features/Travel/Guides/Destinations/Asia/Turkmenistan :  2
+Top/Features/Travel/Guides/Destinations/North America/Canada/Nova Scotia/Halifax :  2
+Top/Features/Travel/Guides/Destinations/Europe/Vatican City :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Brandywine Valley :  2
+Top/News/World/Countries and Territories/Cameroon :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Washington/Tacoma :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Pasadena :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Cape Cod and the Islands/Cape Cod National Seashore :  2
+Top/Features/Travel/Guides/Destinations/Europe/Britain/England/Greenwich :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Ecuador/Quito :  2
+Top/Features/Theater/News and Features/People/Richard Greenberg :  2
+Top/Features/Theater/News and Features/People/Tennessee Williams :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Hypodermic Needles and Syringes :  2
+Top/Features/Theater/News and Features/Companies and Organizations/Royal Shakespeare Co :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Wyoming/Grand Teton National Park :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Venezuela/Caracas :  2
+Top/Features/Movies/News and Features/Studios/IMAX Corp :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Peru/Puno :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Sinusitis :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Alabama/Montgomery :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Kidney Cancer :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Fever :  2
+Top/Features/Movies/News and Features/Studios/Twentieth Century Fox :  2
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Parma :  2
+Top/Features/Travel/Guides/Destinations/Africa/Mauritius :  2
+Top/Features/Travel/Guides/Destinations/Africa/Guinea :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Belize :  2
+Top/Features/Theater/News and Features/People/Mike Leigh :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Delaware/New Castle :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Wyoming/Jackson Hole :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Chile/Pumalin Park :  2
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Michoacan :  2
+Top/News/World/Countries and Territories/Mauritius :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Uruguay :  2
+Top/News/World/Countries and Territories/Monaco :  2
+Top/News/Washington/Campaign 2004/Candidates/Wesley K Clark :  2
+Top/Features/Travel/Guides/Destinations/Europe/France/Loire Valley :  2
+Top/News/Washington/Campaign 2004/Candidates/Bob Graham :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana/Lafayette :  2
+Top/News/World/Countries and Territories/Estonia :  2
+Top/Classifieds/Job Market/Job Categories/Admin and Office :  2
+Top/News/World/Countries and Territories/Nauru :  2
+Top/Features/Travel/Guides/Destinations/Asia/India/Hyderabad :  2
+Top/Features/Travel/Guides/Destinations/Middle East/Oman :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Scottsdale :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Obsessive-Compulsive Disorder :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Female Genital Mutilation :  2
+Top/News/U.S./U.S. States, Territories and Possessions/Guam :  2
+Top/News/Washington/Campaign 2004/Candidates/John Edwards :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Ultrasonics :  2
+Top/Features/Movies/News and Features/Studios/Paramount Pictures :  2
+Top/Features/Arts/Music/Reviews/Pop :  2
+Top/Features/Theater/News and Features/Companies and Organizations/New York Theater Workshop :  2
+Top/News/World/Countries and Territories/Trinidad and Tobago :  2
+Top/Features/Travel/Guides/Destinations/Europe/Turkey/Ani :  2
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Anguilla :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Ovarian Cancer :  2
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Tuvalu :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Celebrex (Drug) :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Panama/Panama Canal and Canal Zone :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Sonoma Valley :  2
+Top/News/World/Countries and Territories/Gambia :  2
+Top/Features/Travel/Guides/Destinations/Europe/Britain/England/Liverpool :  2
+Top/News/World/Countries and Territories/Faroe Islands :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Morning Sickness :  2
+Top/Features/Travel/Guides/Destinations/North America/Canada/Nova Scotia :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Monument Valley :  2
+Top/Features/Travel/Guides/Destinations/Asia/India/Rajasthan :  2
+Top/Features/Travel/Guides/Destinations/Europe/Portugal/Lisbon :  2
+Top/News/World/Countries and Territories/Burkina Faso :  2
+Top/Features/Travel/Guides/Destinations/Asia/Japan/Osaka :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Naples :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Salem :  2
+Top/News/World/Countries and Territories/Suriname :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Utah/Moab :  2
+Top/Features/Theater/News and Features/Companies and Organizations/Drama Dept :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Chlamydia :  2
+Top/News/World/Countries and Territories/Qatar :  2
+Top/News/World/Countries and Territories/Paraguay :  2
+Top/News/Sports/Olympics 2004/Modern Pentathlon :  2
+Top/Features/Travel/Guides/Destinations/Asia/China/Xinjiang Province/Kashgar :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Bronchitis :  2
+Top/Features/Theater/News and Features/People/George C Wolfe :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Post Traumatic Stress Disorder :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Colombia/Cartagena :  2
+Top/Features/Movies/News and Features/Organizations/American Federation of Television and Radio Artists :  2
+Top/Classifieds/Real Estate/Locations/New York/New York City/Staten Island :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Back Pain :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Arkansas/Hot Springs :  2
+Top/Features/Home and Garden/Columns/Garden Notebook :  2
+Top/Features/Theater/News and Features/People/Conor McPherson :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Bolivia/La Paz :  2
+Top/Features/Travel/Guides/Destinations/Europe/Britain/Scotland/Edinburgh :  2
+Top/Features/Movies/News and Features/Film Festivals/Berlin International Film Festival :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Human Papilloma Virus (HPV) :  2
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Virgin Islands/St. Thomas :  2
+Top/Features/Travel/Guides/Destinations/Africa/Egypt/Giza :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Cholera :  2
+Top/Features/Theater/News and Features/People/Michael John Lachiusa :  2
+Top/Features/Travel/Guides/Destinations/North America/Canada/Labrador :  2
+Top/News/World/Countries and Territories/Tuvalu :  2
+Top/Features/Travel/Guides/Destinations/Middle East/Syria/Damascus :  2
+Top/Opinion/Opinion/Op-Ed/Columnists/David Brooks :  2
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Guam :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas/Galveston :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Muscular Dystrophy :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Florida Keys/Key West :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina/Winston-Salem :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Virginia/Norfolk :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina/Raleigh :  2
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria/Arezzo :  2
+Top/Features/Travel/Guides/Destinations/Africa/South Africa/Kwazulu-Natal/Durban :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Down Syndrome :  2
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/The Bahamas/Nassau :  2
+Top/Features/Travel/Guides/Destinations/Central and South America/Argentina/Patagonia :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Parasites :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Alaska/Glacier Bay National Park :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Cervical Cancer :  2
+Top/Features/Travel/Guides/Destinations/Europe/Croatia/Istria :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Ann Arbor :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Acne :  2
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Michoacan/Patzcuaro :  2
+Top/News/World/Countries and Territories/Brunei :  2
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Juarez :  2
+Top/Classifieds/Real Estate/Columns/For Rent :  2
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Andalusia :  2
+Top/Features/Travel/Guides/Destinations/Asia/Japan/Kobe :  2
+Top/News/World/Countries and Territories/Saint Vincent and the Grenadines :  2
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria/Assisi :  2
+Top/Features/Style/Fashion and Style/Columns/Front Row :  2
+Top/Features/Travel/Guides/Destinations/Africa/Burkina Faso :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/Hawaii/Honolulu and Oahu :  2
+Top/Features/Travel/Guides/Destinations/Asia/Cambodia/Phnom Penh :  2
+Top/Features/Theater/News and Features/Companies and Organizations/Theater Development Fund :  2
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Catalonia :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Phobias :  2
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Catalonia/Barcelona :  2
+Top/Features/Home and Garden/Columns/Nature :  2
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Nauru :  2
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Beacon :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Syphilis :  2
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Andalusia/Seville :  2
+Top/News/Business/Small Business/Sales :  2
+Top/News/Health/Diseases, Conditions, and Health Topics/Amyotrophic Lateral Sclerosis :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Utah/Park City :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Vioxx (Drug) :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Sanibel and Captiva Islands :  1
+Top/Features/Travel/Guides/Destinations/Europe/Britain/England/Bath :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Cahors :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Carmel :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Vermont/Bennington :  1
+Top/Features/Travel/Guides/Destinations/Asia/China/Shenzhen :  1
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Acapulco :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Maine/Kennebunkport :  1
+Top/Features/Travel/Guides/Destinations/Europe/Russia/Siberia/Vladivostok :  1
+Top/Features/Travel/Guides/Destinations/Europe/Czech Republic/Cesky Krumlov :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Millau :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/Ontario/Niagara-on-the-Lake :  1
+Top/Features/Travel/Guides/Destinations/Asia/Maldives :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Claritin (Drug) :  1
+Top/News/World/Countries and Territories/Vatican City :  1
+Top/News/World/Countries and Territories/Niue :  1
+Top/Features/Travel/Guides/Destinations/Europe/Norway/Aurland :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Balearic Islands :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Tamoxifen (Drug) :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Sedatives :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Provence and the French Riviera/St. Tropez :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Maryland/Annapolis :  1
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Lake Como :  1
+Top/Features/Travel/Guides/Destinations/Asia/China/Chengdu :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Santa Barbara :  1
+Top/Features/Travel/Guides/Destinations/Europe/Switzerland/Zurich :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Toledo :  1
+Top/Features/Travel/Guides/Destinations/Africa/South Africa/Port Elizabeth :  1
+Top/Features/Travel/Guides/Destinations/Europe/Britain/Wales/Hay-on-Wye :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Provence and the French Riviera/Marseille :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Washington/Leavenworth :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Virginia/Fredericksburg :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Dominica :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/Argentina/Patagonia/El Calafate :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Hawaii/Kauai :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Midwives :  1
+Top/Features/Travel/Guides/Destinations/Africa/Gabon :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Colorado Springs :  1
+Top/News/World/Countries and Territories/Macao :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/South Carolina/Myrtle Beach :  1
+Top/Features/Travel/Guides/Destinations/Europe/Germany/Potsdam :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Cystic Fibrosis :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/Chile/Easter Island :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Mumps :  1
+Top/News/World/Countries and Territories/Tunisia :  1
+Top/Features/Travel/Guides/Destinations/Europe/Estonia/Tallinn :  1
+Top/Features/Travel/Guides/Destinations/Polar Regions/South Georgia and the South Sandwich Islands :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Durango :  1
+Top/Features/Theater/News and Features/People/Suzan-Lori Parks :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Virginia/Charlottesville :  1
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/American Samoa :  1
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Turin :  1
+Top/Features/Travel/Guides/Destinations/Asia/China/Hainan Island :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Boca Raton :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Utah/Canyonlands National Park :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Hearing Aids :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Virginia/Richmond :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Mississippi/Jackson :  1
+Top/Features/Travel/Guides/Destinations/Europe/Greece/Crete :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Bucks County :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Finger Lakes/Seneca Falls :  1
+Top/Features/Travel/Guides/Destinations/Europe/Ireland/Burren :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Ojai :  1
+Top/Features/Travel/Guides/Destinations/Europe/Croatia/Dubrovnik :  1
+Top/Features/Movies/News and Features/Studios/New Line Cinema :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/Peru/Cuzco :  1
+Top/Features/Travel/Guides/Destinations/Africa/Morocco/Marrakesh :  1
+Top/News/Business/Small Business/Retail and Franchising :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/Brazil/Belem :  1
+Top/News/World/Countries and Territories/Samoa :  1
+Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctica :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Fluorides :  1
+Top/News/World/Countries and Territories/Maldives :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Vermont/Manchester :  1
+Top/Features/Theater/News and Features/People/Cherry Jones :  1
+Top/News/Business/Columns/Life's Work :  1
+Top/News/World/Countries and Territories/Dominica :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Lupus (Disease) :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Burgundy/Beaune :  1
+Top/News/World/Countries and Territories/Antarctica :  1
+Top/Features/Movies/News and Features/Talent Agencies/International Creative Management :  1
+Top/Features/Travel/Guides/Destinations/Asia/Malaysia/Kuala Lumpur :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Newburyport :  1
+Top/News/Washington/Campaign 2004/Issues/Health Care :  1
+Top/Features/Travel/Guides/Destinations/Europe/Croatia/Zagreb :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Basque Country/Bilbao :  1
+Top/News/World/Countries and Territories/Niger :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/Alberta/Calgary :  1
+Top/News/Business/Small Business/HealthCare :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Laguna Beach :  1
+Top/News/World/Countries and Territories/South Georgia and the South Sandwich Islands :  1
+Top/Features/Travel/Guides/Destinations/Africa/Malawi :  1
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Ferrara :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Georgia/Sea Island :  1
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Pompeii :  1
+Top/News/World/Countries and Territories/Cocos (Keeling) Islands :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/New Mexico/Santa Fe :  1
+Top/News/World/Countries and Territories/Latvia :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas/Fort Worth :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Provence and the French Riviera/Cannes :  1
+Top/Features/Travel/Guides/Destinations/Africa/South Africa/Kwazulu-Natal :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee/Chattanooga :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Lipitor (Drug) :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico/San Juan :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Utah/Zion National Park :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Smallpox :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/Brazil/Florianopolis :  1
+Top/Features/Travel/Guides/Destinations/Africa/Morocco/Fez :  1
+Top/News/World/Countries and Territories/Oman :  1
+Top/News/World/Countries and Territories/Guinea :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Martinique :  1
+Top/News/Business/Columns/On the Ground :  1
+Top/Features/Travel/Guides/Destinations/Europe/Netherlands/Rotterdam :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/Brazil/Bahia/Salvador :  1
+Top/News/World/Countries and Territories/Bahrain :  1
+Top/Features/Theater/News and Features/Festivals/Comedy Arts Festival :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/Connecticut River Valley :  1
+Top/News/U.S./U.S. States, Territories and Possessions/Virgin Islands, U.S. :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Huntington's Disease :  1
+Top/Features/Travel/Guides/Destinations/Europe/Switzerland/Basel :  1
+Top/Features/Travel/Guides/Destinations/Europe/Moldova :  1
+Top/Features/Travel/Guides/Destinations/Africa/Togo :  1
+Top/News/Washington/Campaign 2004/States/South Dakota :  1
+Top/Features/Theater/News and Features/People/Brian Stokes Mitchell :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Burns :  1
+Top/News/Sports/Olympics 2004/Badminton :  1
+Top/Features/Movies/News and Features/Studios/Columbia Pictures :  1
+Top/Features/Movies/News and Features/Studios/USA Network :  1
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Marshall Islands :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/California/Death Valley National Park :  1
+Top/News/World/Countries and Territories/Madagascar :  1
+Top/Features/Travel/Guides/Destinations/Europe/Greece/Nafplio :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Loire Valley/Orleans :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Health Foods :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/Alberta/Banff :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Multiple Personalities :  1
+Top/Features/Travel/Guides/Destinations/Europe/Norway/Lofoten Islands :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Curacao :  1
+Top/News/Washington/Campaign 2004/Issues/Labor :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Bipolar Disorder :  1
+Top/News/World/Countries and Territories/Malawi :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/French Guiana :  1
+Top/Features/Travel/Guides/Destinations/Middle East/Israel/Eilat :  1
+Top/News/World/Countries and Territories/Mauritania :  1
+Top/Features/Travel/Guides/Destinations/Europe/Greece/Paros :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/St. Kitts and Nevis/Nevis :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/New Hampshire/Portsmouth :  1
+Top/News/Sports/Olympics 2004/Handball :  1
+Top/Features/Travel/Guides/Destinations/Europe/Turkey/Ankara :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Statins (Cholesterol-Lowering Drugs) :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/Ontario/Ottawa :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Canary Islands :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Paxil (Drug) :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/Brazil/Recife and Olinda :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Circumcision :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Biarritz :  1
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/New Zealand/Auckland :  1
+Top/Features/Theater/News and Features/Companies and Organizations/Atlantic Theater Co :  1
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria/Lucca :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Texas/Corpus Christi :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Motion Sickness :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Oregon/Eugene :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Strep Throat :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Insomnia :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/Alberta/Edmonton :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Idaho/Salmon River :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Stuttering :  1
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Baja California/Ensenada :  1
+Top/News/Washington/Campaign 2004/States/Virginia :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Basque Country :  1
+Top/Features/Travel/Guides/Destinations/Asia/China/Xinjiang Province :  1
+Top/News/Sports/Columns/Richard Sandomir :  1
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria/Pisa :  1
+Top/Features/Travel/Guides/Destinations/Europe/Lithuania/Vilnius :  1
+Top/Features/Movies/News and Features/Studios/United Artists :  1
+Top/Features/Travel/Guides/Destinations/Asia/Nepal/Katmandu :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Galicia :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Finger Lakes/Skaneateles :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Cayman Islands :  1
+Top/Features/Travel/Guides/Destinations/Asia/Indonesia/Bali :  1
+Top/Features/Travel/Guides/Destinations/Europe/Britain/England/Yorkshire and Northumbria/York :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Springfield :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Segovia :  1
+Top/Features/Theater/News and Features/People/Lanford Wilson :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/St. Lucia :  1
+Top/News/World/Countries and Territories/Cayman Islands :  1
+Top/Features/Travel/Guides/Destinations/Asia/China/Guangdong Province :  1
+Top/Features/Theater/News and Features/People/Eddie Izzard :  1
+Top/Features/Travel/Guides/Destinations/Central and South America/Venezuela/Merida :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Suntan :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Washington/Spokane :  1
+Top/Features/Travel/Guides/Destinations/Africa/Morocco/Essaouira :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Dialysis :  1
+Top/News/World/Countries and Territories/Uruguay :  1
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Solomon Islands :  1
+Top/Features/Theater/News and Features/People/Athol Fugard :  1
+Top/News/World/Countries and Territories/Luxembourg :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Whooping Cough :  1
+Top/Features/Theater/News and Features/People/Lorenz Hart :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Snoring :  1
+Top/News/World/Countries and Territories/Guinea-Bissau :  1
+Top/News/World/Countries and Territories/Togo :  1
+Top/News/World/Countries and Territories/Turkmenistan :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Zoloft (Drug) :  1
+Top/News/U.S./U.S. States, Territories and Possessions/American Samoa :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Vermont/Woodstock :  1
+Top/Features/Travel/Guides/Destinations/Asia/China/Yunnan Province :  1
+Top/Features/Travel/Guides/Destinations/Europe/Netherlands/Utrecht :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Migraine Headaches :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Crested Butte :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Balearic Islands/Ibiza :  1
+Top/Features/Theater/News and Features/People/Henrik Ibsen :  1
+Top/News/World/Countries and Territories/French Guiana :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Maine/Acadia National Park :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Aruba :  1
+Top/Features/Travel/Guides/Destinations/North America/Mexico/Guadalajara :  1
+Top/Features/Travel/Guides/Destinations/Africa/Cape Verde :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/Washington/Mount Baker :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/British Columbia/Whistler :  1
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Cook Islands :  1
+Top/Features/Travel/Guides/Destinations/Africa/Madagascar :  1
+Top/News/World/Countries and Territories/Bhutan :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/Alberta/Lake Louise :  1
+Top/News/World/Countries and Territories/Cook Islands :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Grenada :  1
+Top/Features/Travel/Guides/Destinations/Europe/Italy/Padua :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/Newfoundland/St John's :  1
+Top/Features/Travel/Guides/Destinations/North America/United States/New York/Cooperstown :  1
+Top/News/Washington/Campaign 2004/States/Hawaii :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/St. Kitts and Nevis :  1
+Top/Features/Theater/News and Features/People/Hugh Jackman :  1
+Top/News/World/Countries and Territories/Nepal :  1
+Top/Features/Travel/Guides/Destinations/Asia/Vietnam/Hue :  1
+Top/Features/Travel/Guides/Destinations/Europe/Germany/The Rhineland/Cologne :  1
+Top/Features/Travel/Guides/Destinations/North America/Canada/Prince Edward Island :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Shingles (Disease) :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Normandy/Honfleur :  1
+Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/St. Kitts and Nevis/St. Kitts :  1
+Top/Features/Theater/News and Features/People/Maggie Smith :  1
+Top/Features/Travel/Guides/Destinations/Australia and Pacific/Samoa :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Rabies :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Colds :  1
+Top/News/World/Countries and Territories/Marshall Islands :  1
+Top/News/Sports/Columns/Selena Roberts :  1
+Top/Features/Travel/Guides/Destinations/Africa/Guinea-Bissau :  1
+Top/Features/Travel/Guides/Destinations/Asia/China/Dalian :  1
+Top/News/World/Countries and Territories/Saint Kitts and Nevis :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Amnesia :  1
+Top/Features/Travel/Guides/Destinations/Middle East/Jordan/Amman :  1
+Top/Features/Travel/Guides/Destinations/Europe/Spain/Galicia/Santiago de Compostela :  1
+Top/Features/Travel/Guides/Destinations/Europe/Portugal/Sintra :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Psychiatry and Psychiatrists :  1
+Top/Features/Travel/Guides/Destinations/Europe/Norway/Bergen :  1
+Top/News/World/Countries and Territories/Gabon :  1
+Top/Features/Travel/Guides/Destinations/Europe/France/Brittany/Nantes :  1
+Top/Features/Travel/Columns/Books :  1
+Top/Features/Travel/Guides/Destinations/Africa/Niger :  1
+Top/Features/Travel/Guides/Destinations/Europe/Germany/Dresden :  1
+Top/News/Health/Diseases, Conditions, and Health Topics/Testosterone :  1
+Top/Features/Travel/Guides/Destinations/Europe/Sweden/Malmo :  1
